@@ -343,7 +343,7 @@
 - [MithrilJS/ospec](https://github.com/MithrilJS/ospec) - Noiseless testing framework
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [cferdinandi/build-tool-boilerplate](https://github.com/cferdinandi/build-tool-boilerplate) - A simple boilerplate for using NPM tasks to build and compile JavaScript, CSS, and image files.
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [NakedJSX/core](https://github.com/NakedJSX/core) - The NakedJSX development server and build tool.
