@@ -739,6 +739,7 @@
 
 ## Rust 
 
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
