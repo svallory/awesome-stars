@@ -159,6 +159,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -1526,7 +1527,6 @@
 - [dotenvx/dotenvx.sh](https://github.com/dotenvx/dotenvx.sh) - install `dotenvx` via curl
 - [jetify-com/devbox-plugins](https://github.com/jetify-com/devbox-plugins) - Collection of Plugins for Devbox
 - [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
-- [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [svallory/moonrepo-template](https://github.com/svallory/moonrepo-template) - Monorepo template using moon, proto, node 20, Yarn 4, Packemon, ESLint, Jest, Prettier, TypeScript, Vite, Vitest, Astro.
 - [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir
 - [unix/func](https://github.com/unix/func) - Modern Command Line Framework.
@@ -1593,7 +1593,6 @@
 - [figma/code-snippet-editor-plugin](https://github.com/figma/code-snippet-editor-plugin) - Translate component variants, properties, and more into dynamic code snippets for your design system.
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [eBay/arc](https://github.com/eBay/arc) - adaptive resources and components
-- [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
 - [jackiechui/Figma-Node-Inspector](https://github.com/jackiechui/Figma-Node-Inspector) - 
 - [tianlinxu312/Everything-about-LLMs](https://github.com/tianlinxu312/Everything-about-LLMs) - A work in progress.  Trying to write about all interesting or necessary pieces in the current development of LLMs and generative AI.  Gradually adding more topics.
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
@@ -1861,7 +1860,6 @@
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
 - [hydrosquall/code-maps-frontend](https://github.com/hydrosquall/code-maps-frontend) - resources about visualizing + mapping javascript codebases
 - [figma-plugin-helper-functions/figma-plugin-helpers](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - A collection of useful helper functions to import to your Figma plugin project
-- [ecklf/tailwindcss-figma-plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma Plugin for Tailwind CSS
 - [thomas-lowry/figsvelte](https://github.com/thomas-lowry/figsvelte) - A boilerplate for creating Figma plugins with Svelte
 - [andreincu/styler](https://github.com/andreincu/styler) - Styler is a Figma plugin that provides a more efficient way to build and maintain design systems.
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma and FigJam
@@ -2477,6 +2475,28 @@
 
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
+
+## tailwindcss 
+
+- [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
+- [Shipixen/examples](https://github.com/Shipixen/examples) - Various UI examples
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
+- [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+- [ecklf/tailwindcss-figma-kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS
+- [eXodes/nx-monorepo](https://github.com/eXodes/nx-monorepo) - NX monorepo setup with SvelteKit and NestJS. Libraries in this repository are not set to be buildable and publishable.
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
+- [ecklf/tailwindcss-figma-plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma Plugin for Tailwind CSS
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## tensorflow 
 
