@@ -180,6 +180,7 @@
 
 ## Elixir 
 
+- [Theosaurus-Rex/ash-livebook](https://github.com/Theosaurus-Rex/ash-livebook) - Interactive Livebook demo for the Ash Elixir framework
 - [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir
 - [awesomerank/rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
@@ -237,6 +238,7 @@
 
 ## HTML 
 
+- [handprompted/handprompted-monorepo](https://github.com/handprompted/handprompted-monorepo) - 
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [juliankrispel/bishbosh](https://github.com/juliankrispel/bishbosh) - Proposal - BishBosh - A domain specific language for writing command line interfaces
 - [jyoungblood/pocketdocs](https://github.com/jyoungblood/pocketdocs) - Attractive template for writing single-page documentation with semantic HTML
@@ -506,6 +508,8 @@
 
 ## Nix 
 
+- [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
+- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [billimek/dotfiles](https://github.com/billimek/dotfiles) - Leveraging nix, nix-os, nix-darwin, and home-manager to apply machine and home configurations
 
 ## Nushell 
@@ -519,6 +523,7 @@
 
 ## Others 
 
+- [team-alembic/staple-actions](https://github.com/team-alembic/staple-actions) - Shared GitHub actions and workflows for STAPLE stack apps.
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [Shipixen/examples](https://github.com/Shipixen/examples) - Various UI examples
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
@@ -623,6 +628,7 @@
 
 ## Python 
 
+- [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker) - The day-to-day front-end to the IETF database for people who work on IETF standards.
@@ -638,7 +644,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
@@ -843,6 +849,7 @@
 
 ## TypeScript 
 
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [webdriverio/bx](https://github.com/webdriverio/bx) - Command line tool to run JavaScript, TypeScript or HTML files in the browser.
@@ -904,7 +911,7 @@
 - [marko-js/tags-api-preview](https://github.com/marko-js/tags-api-preview) - Preview the Marko 6 "Tags API" in Marko 5!
 - [seek-oss/skuba](https://github.com/seek-oss/skuba) - 🤿 SEEK development toolkit for backend applications and packages
 - [seek-oss/crackle](https://github.com/seek-oss/crackle) - A build tool for apps and packages, static and server-rendered sites
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 - [figma/code-snippet-editor-plugin](https://github.com/figma/code-snippet-editor-plugin) - Translate component variants, properties, and more into dynamic code snippets for your design system.
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
