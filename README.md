@@ -180,6 +180,8 @@
 
 ## Elixir 
 
+- [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
+- [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
 - [Theosaurus-Rex/ash-livebook](https://github.com/Theosaurus-Rex/ash-livebook) - Interactive Livebook demo for the Ash Elixir framework
 - [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir
@@ -850,6 +852,7 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
@@ -892,7 +895,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
