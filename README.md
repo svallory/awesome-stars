@@ -76,6 +76,7 @@
 
 ## C 
 
+- [Phantas0s/the_valuable_dev_companion](https://github.com/Phantas0s/the_valuable_dev_companion) - Some useful files for my blog, The Valuable Dev
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -469,7 +470,7 @@
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [tianlinxu312/Everything-about-LLMs](https://github.com/tianlinxu312/Everything-about-LLMs) - A work in progress.  Trying to write about all interesting or necessary pieces in the current development of LLMs and generative AI.  Gradually adding more topics.
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [Significant-Gravitas/Auto-GPT-Benchmarks](https://github.com/Significant-Gravitas/Auto-GPT-Benchmarks) - A repo built for the purpose of benchmarking the performance of agents, regardless of how they are set up and how they work.
@@ -747,6 +748,7 @@
 
 ## Rust 
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
