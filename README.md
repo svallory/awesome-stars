@@ -92,7 +92,6 @@
 
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [c272/iro4cli](https://github.com/c272/iro4cli) - An open-source rewrite of Iro, a grammar generator, supporting automatic VSCode & Atom extension generation.
-- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
@@ -282,6 +281,7 @@
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 - [serenadeai/serenade](https://github.com/serenadeai/serenade) - 
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [unicode-org/cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 - [ContextMapper/context-mapper-standalone-example](https://github.com/ContextMapper/context-mapper-standalone-example) - Standalone Example Project using the Context Mapper DSL as Library
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
@@ -369,6 +369,7 @@
 - [webdiscus/pug-plugin](https://github.com/webdiscus/pug-plugin) - Renders Pug template to HTML or template function. Resolves source files of scripts, styles, images in Pug . Uses Pug template as entry point.
 - [slm-lang/slm](https://github.com/slm-lang/slm) - Slim, Jade like template engine for node
 - [thomas-lowry/figma-plugin-ds-svelte](https://github.com/thomas-lowry/figma-plugin-ds-svelte) - Figma Plugin DS components made with Svelte
+- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -730,6 +731,7 @@
 
 ## Ruby 
 
+- [DannyBen/jobly](https://github.com/DannyBen/jobly) - Compact job server with API, CLI, Web UI and a Sidekiq heart
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [sharetribe/sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -794,6 +796,8 @@
 
 ## Shell 
 
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
+- [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Bring your dotfile commands and configuration to any shell. Sensible defaults and hundreds of commands preloaded. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Wind
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
@@ -1106,7 +1110,7 @@
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [JB1905/react-figma-ui](https://github.com/JB1905/react-figma-ui) - 🏗️ React implementation for figma-plugin-ds
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [jake-figma/component-inspector](https://github.com/jake-figma/component-inspector) - A Figma plugin for inspecting Figma components
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
@@ -1179,7 +1183,6 @@
 - [thiagomajesk/code-flow](https://github.com/thiagomajesk/code-flow) - Visual Studio Code Extension For Productivity Junkies
 - [trickypr/station](https://github.com/trickypr/station) - One app to rule them all!
 - [TheFireBlast/irojs](https://github.com/TheFireBlast/irojs) - A grammar generator for syntax highlighters.
-- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [microsoft/TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text, and Atom.
 - [aPinix/indent-jump-vscode](https://github.com/aPinix/indent-jump-vscode) - Move cursor and select contents between lines with the same indents.
 - [metaseed/metaGo](https://github.com/metaseed/metaGo) - MetaGo provides fast cursor movement/selection for keyboard focused users in vscode
