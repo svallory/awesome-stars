@@ -672,7 +672,7 @@
 - [bdqnghi/ast-node-encoding](https://github.com/bdqnghi/ast-node-encoding) - A tool to convert nodes in an Abstract Syntax Tree into vector embeddings
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [AutoPackAI/beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works
-- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [facebookresearch/textlesslib](https://github.com/facebookresearch/textlesslib) - Library for Textless Spoken Language Processing
 - [shroominic/codebox-api](https://github.com/shroominic/codebox-api) - 📦 CodeBox is the simplest cloud infrastructure for your LLM Apps and Services.
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
@@ -690,7 +690,7 @@
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Victorwz/LongMem](https://github.com/Victorwz/LongMem) - Official implementation of our NeurIPS 2023 paper "Augmenting Language Models with Long-Term Memory".
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [fabiomatricardi/GPT4All_Medium](https://github.com/fabiomatricardi/GPT4All_Medium) - Repo of the code from the Medium article
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
