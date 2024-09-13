@@ -862,7 +862,7 @@
 - [khalidx/runbook](https://github.com/khalidx/runbook) - Executable markdown documents that you can run, template, and share!
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [webdriverio/bx](https://github.com/webdriverio/bx) - Command line tool to run JavaScript, TypeScript or HTML files in the browser.
 - [sek-consulting/solid-ui](https://github.com/sek-consulting/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
@@ -923,7 +923,7 @@
 - [marko-js/tags-api-preview](https://github.com/marko-js/tags-api-preview) - Preview the Marko 6 "Tags API" in Marko 5!
 - [seek-oss/skuba](https://github.com/seek-oss/skuba) - 🤿 SEEK development toolkit for backend applications and packages
 - [seek-oss/crackle](https://github.com/seek-oss/crackle) - A build tool for apps and packages, static and server-rendered sites
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [figma/code-snippet-editor-plugin](https://github.com/figma/code-snippet-editor-plugin) - Translate component variants, properties, and more into dynamic code snippets for your design system.
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
