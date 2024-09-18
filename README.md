@@ -416,7 +416,6 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [dolphyn/dolphyn](https://github.com/dolphyn/dolphyn) - Beatiful and easy to use webmail
 - [emersion/neutron-webclient](https://github.com/emersion/neutron-webclient) - Official AngularJS web client for the ProtonMail secure email service.
-- [pagarme/superbowleto](https://github.com/pagarme/superbowleto) - :football: A microservice to issue, register and manage boletos
 - [jamuhl/nodeCQRS](https://github.com/jamuhl/nodeCQRS) - CQRS, EventSourcing, (DDDD) Sample in node.js
 - [nicdex/node-eventstore-client](https://github.com/nicdex/node-eventstore-client) - Node client library for EventStore using TCP
 - [keithamus/npm-scripts-example](https://github.com/keithamus/npm-scripts-example) - An example of how to use NPM scripts over Grunt/Gulp & Friends. http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool
@@ -1139,7 +1138,6 @@
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [enio-ireland/enio](https://github.com/enio-ireland/enio) - A hub for great inventions built by Enio.
 - [alexjdean/type-scriptor](https://github.com/alexjdean/type-scriptor) - Write better JavaScript and TypeScript code, using ChatGPT.
-- [opensouls/soul-engine-sdk](https://github.com/opensouls/soul-engine-sdk) - Soul Engine SDK
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [XpressAI/xircuits](https://github.com/XpressAI/xircuits) - Simple visual programming environment for jupyterlab
 - [ericciarla/babyagijs](https://github.com/ericciarla/babyagijs) - AI-powered task management system in Javascript
