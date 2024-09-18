@@ -1870,7 +1870,6 @@
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [opensouls/soul-engine-sdk](https://github.com/opensouls/soul-engine-sdk) - Soul Engine SDK
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -2025,7 +2024,6 @@
 - [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [hlibco/serverless-typescript](https://github.com/hlibco/serverless-typescript) - AWS Lambda in Typescript and API Gateway (public and private routes + JWT) with Offline support and documentation
-- [pagarme/superbowleto](https://github.com/pagarme/superbowleto) - :football: A microservice to issue, register and manage boletos
 - [jamuhl/nodeCQRS](https://github.com/jamuhl/nodeCQRS) - CQRS, EventSourcing, (DDDD) Sample in node.js
 - [nicdex/node-eventstore-client](https://github.com/nicdex/node-eventstore-client) - Node client library for EventStore using TCP
 - [keithamus/npm-scripts-example](https://github.com/keithamus/npm-scripts-example) - An example of how to use NPM scripts over Grunt/Gulp & Friends. http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool
