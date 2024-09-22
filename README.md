@@ -384,7 +384,7 @@
 - [PragadeshBS/lgtv](https://github.com/PragadeshBS/lgtv) - Node.js application to control LG WebOS TVs
 - [jxnblk/mdx-blocks](https://github.com/jxnblk/mdx-blocks) - 
 - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [yeoman/update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 - [Javascipt/Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
