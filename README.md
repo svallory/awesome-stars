@@ -384,7 +384,7 @@
 - [PragadeshBS/lgtv](https://github.com/PragadeshBS/lgtv) - Node.js application to control LG WebOS TVs
 - [jxnblk/mdx-blocks](https://github.com/jxnblk/mdx-blocks) - 
 - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [yeoman/update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 - [Javascipt/Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
@@ -913,7 +913,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [permitio/permit-node](https://github.com/permitio/permit-node) - Node.js SDK for Permit.io: Plug & Play Application Level Authorization
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [kpolley/GitChat](https://github.com/kpolley/GitChat) - Chat with your git repo
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [pd4d10/console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
