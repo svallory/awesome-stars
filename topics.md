@@ -66,6 +66,7 @@
 - [finance](#finance)
 - [firebase](#firebase)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [framework](#framework)
 - [frontend](#frontend)
 - [gh-extension](#gh-extension)
@@ -647,6 +648,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [gridaco/CoLI](https://github.com/gridaco/CoLI) - Computer Language Interface. A Code builder (json, jsx, js, ts, dart, css, xml, html, python) AST Builder / Parser
 - [waseemdev/vscode-flutter.xml-layout](https://github.com/waseemdev/vscode-flutter.xml-layout) - XML Layout for Flutter. Brings Angular's style to Flutter!
 - [astrotars/stream-flutter](https://github.com/astrotars/stream-flutter) - Building a Social Network with Stream Activity Feeds and Flutter
@@ -852,6 +854,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [rodydavis/figma_flutter_plugin](https://github.com/rodydavis/figma_flutter_plugin) - Example of how to use Flutter Web in a Figma Pluigin
@@ -863,6 +866,10 @@
 - [waseemdev/vscode-flutter.xml-layout](https://github.com/waseemdev/vscode-flutter.xml-layout) - XML Layout for Flutter. Brings Angular's style to Flutter!
 - [astrotars/stream-flutter](https://github.com/astrotars/stream-flutter) - Building a Social Network with Stream Activity Feeds and Flutter
 - [FlutterOpen/flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice) - More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
+
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## framework 
 
