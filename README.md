@@ -362,7 +362,6 @@
 - [amekusa/karabinerge](https://github.com/amekusa/karabinerge) - Karabiner Elements complex modifications generator
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A highly-opinionated base for building shareable Svelte 3 components
 - [tokilabs/config](https://github.com/tokilabs/config) - A monorepo for config of tools used at @tokilabs
-- [aycanogut/front-end-resources](https://github.com/aycanogut/front-end-resources) - a repo for awesome front-end resources
 - [tomquinonero/figma-plugin-template](https://github.com/tomquinonero/figma-plugin-template) - A Figma plugin template using svelte. SCSS and Typescript support
 - [Hugo-Dz/figma-plugin-template](https://github.com/Hugo-Dz/figma-plugin-template) - A Figma plugin template using svelte. SCSS and Typescript support
 - [strategitica/strategitica](https://github.com/strategitica/strategitica) - Displays Habitica tasks in calendar format, along with some other helpful info and a sleep toggle.
@@ -503,6 +502,7 @@
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [aycanogut/front-end-resources](https://github.com/aycanogut/front-end-resources) - a repo for awesome front-end resources
 
 ## Makefile 
 
