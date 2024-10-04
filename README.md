@@ -846,6 +846,7 @@
 
 ## Svelte 
 
+- [imohanvadivel/figblocks](https://github.com/imohanvadivel/figblocks) - An Open-source UI component library for building Figma plugins with svelte.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁 🌸
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
@@ -889,7 +890,7 @@
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [weareunderdesign/rfrncs.design](https://github.com/weareunderdesign/rfrncs.design) - 
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
