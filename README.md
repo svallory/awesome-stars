@@ -890,7 +890,7 @@
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [weareunderdesign/rfrncs.design](https://github.com/weareunderdesign/rfrncs.design) - 
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
@@ -980,7 +980,7 @@
 - [unjs/knitwork](https://github.com/unjs/knitwork) - 🧶 Utilities to generate safe JavaScript code.
 - [unjs/rc9](https://github.com/unjs/rc9) - Read/Write config couldn't be easier!
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
-- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
