@@ -67,6 +67,7 @@
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
+- [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
 - [gh-extension](#gh-extension)
@@ -874,6 +875,10 @@
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
+## font 
+
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+
 ## framework 
 
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
@@ -1634,6 +1639,7 @@
 
 ## others 
 
+- [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [tigranpetrossian/figma-kit](https://github.com/tigranpetrossian/figma-kit) - A set of React components for building Figma plugins.
 - [opral/parrot-figcd](https://github.com/opral/parrot-figcd) - Figma Plugin CLI Publisher
 - [figma/eslint-plugin-figma-plugins](https://github.com/figma/eslint-plugin-figma-plugins) - typescript-eslint rules for plugins
