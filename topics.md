@@ -200,7 +200,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -394,7 +394,7 @@
 
 ## aws 
 
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1276,7 +1276,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [rizerphe/local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling) - A tool for generating function arguments and choosing what function to call with local LLMs
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -2296,7 +2296,7 @@
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
