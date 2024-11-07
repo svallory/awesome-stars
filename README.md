@@ -971,7 +971,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
-- [goetzrobin/spartan](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
+- [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [gioragutt/nx-pwm](https://github.com/gioragutt/nx-pwm) - Plugin and CLI for managing nx workspaces of packages, inspired by the tooling in nrwl/nx
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
