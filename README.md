@@ -1157,7 +1157,7 @@
 - [termsurf/tree](https://github.com/termsurf/tree) - A Data Modeling Programming Language
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [enio-ireland/enio](https://github.com/enio-ireland/enio) - A hub for great inventions built by Enio.
-- [alexjdean/type-scriptor](https://github.com/alexjdean/type-scriptor) - Write better JavaScript and TypeScript code, using ChatGPT.
+- [alexjdean/type-scriptor](https://github.com/alexjdean/type-scriptor) - Write better JavaScript and TypeScript code, using GPT 4.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [XpressAI/xircuits](https://github.com/XpressAI/xircuits) - Simple visual programming environment for jupyterlab
 - [ericciarla/babyagijs](https://github.com/ericciarla/babyagijs) - AI-powered task management system in Javascript
