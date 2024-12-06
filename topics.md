@@ -175,6 +175,7 @@
 - [ubuntu](#ubuntu)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -431,7 +432,7 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [BeyondCodeBootcamp/aliasman](https://github.com/BeyondCodeBootcamp/aliasman) - An alias manager for your shells: bash, zsh, and fish (and sh too, kinda)
+- [BeyondCodeBootcamp/aliasman](https://github.com/BeyondCodeBootcamp/aliasman) - An alias manager for your shells: bash, zsh, and fish (and POSIX sh too, kinda)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -2834,6 +2835,10 @@
 ## visual-studio-code 
 
 - [SOM-Research/DescribeML](https://github.com/SOM-Research/DescribeML) - DescribeML is a Visual Studio Code language plug-in to describe machine-learning datasets in a structured format. Build better data describing the composition, provenance and social concerns of your d
+
+## vpn 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 
 ## vue 
 
