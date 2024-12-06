@@ -831,7 +831,7 @@
 - [lukechilds/humanscript](https://github.com/lukechilds/humanscript) - A truly natural scripting language
 - [getnf/getnf](https://github.com/getnf/getnf) - A better way to install Nerd Fonts
 - [sourcegraph/deploy-sourcegraph-digitalocean](https://github.com/sourcegraph/deploy-sourcegraph-digitalocean) - Deploy Sourcegraph on DigitalOcean using Terraform
-- [BeyondCodeBootcamp/aliasman](https://github.com/BeyondCodeBootcamp/aliasman) - An alias manager for your shells: bash, zsh, and fish (and sh too, kinda)
+- [BeyondCodeBootcamp/aliasman](https://github.com/BeyondCodeBootcamp/aliasman) - An alias manager for your shells: bash, zsh, and fish (and POSIX sh too, kinda)
 - [ecklf/tailwindcss-figma-kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS
 - [figma/widget-typings](https://github.com/figma/widget-typings) - Typings for the Figma Widget API
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
