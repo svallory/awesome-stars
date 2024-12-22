@@ -1020,7 +1020,7 @@
 - [jrmkim50/coda-nifti-pack](https://github.com/jrmkim50/coda-nifti-pack) - 
 - [randyyan2000/lol-coda-pack](https://github.com/randyyan2000/lol-coda-pack) - 
 - [mbilokonsky/coda-pack-gpt-plus](https://github.com/mbilokonsky/coda-pack-gpt-plus) - A coda pack that enables a number of powerful GPT operations.
-- [Coda-Magic/gmail-labels-and-filters-magic-coda-pack](https://github.com/Coda-Magic/gmail-labels-and-filters-magic-coda-pack) - 
+- [troy-larson/gmail-labels-and-filters-magic-coda-pack](https://github.com/troy-larson/gmail-labels-and-filters-magic-coda-pack) - 
 - [randyyan2000/genshin-coda-pack](https://github.com/randyyan2000/genshin-coda-pack) - 
 - [useVenice/coda-pack-attio](https://github.com/useVenice/coda-pack-attio) - 
 - [faridsabitov/Confluence-Coda-Pack](https://github.com/faridsabitov/Confluence-Coda-Pack) - 
@@ -1135,7 +1135,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [jake-figma/component-inspector](https://github.com/jake-figma/component-inspector) - A Figma plugin for inspecting Figma components
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [mornir/habitica-bot](https://github.com/mornir/habitica-bot) - ⚒ A Cloudflare Worker that makes use of the Habitica API and Discord Webhooks
 - [SuperChamp234/habitica-sync](https://github.com/SuperChamp234/habitica-sync) - This is a under-development Obsidian Plugin for Habitica
 - [starptr/habitica-presenter](https://github.com/starptr/habitica-presenter) - 
