@@ -310,6 +310,7 @@
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [fchollet/ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rsms/scripter](https://github.com/rsms/scripter) - The Scripter Figma plugin
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -852,8 +853,7 @@
 ## Svelte 
 
 - [imohanvadivel/figblocks](https://github.com/imohanvadivel/figblocks) - An Open-source UI component library for building Figma plugins with svelte.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko's Alethia based rollup protocol 🥁 🌸
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁 🌸
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [CaptainCodeman/svelte-form-helper](https://github.com/CaptainCodeman/svelte-form-helper) - Lightweight helpers for form validation with Svelte
@@ -1305,7 +1305,7 @@
 ## Vue 
 
 - [GBKS/bitcoin-ui-kit-penpot-api-test](https://github.com/GBKS/bitcoin-ui-kit-penpot-api-test) - 
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
 - [aschwtzr/chatGPT-vue3-fastapi](https://github.com/aschwtzr/chatGPT-vue3-fastapi) - Super Simple Front and Backend for chatGPT style-conversations and babyagis
 - [tony19-sandbox/vite-vue-figma-plugin-demo](https://github.com/tony19-sandbox/vite-vue-figma-plugin-demo) - Figma plugin written with Vue and Vite
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
