@@ -258,7 +258,7 @@
 - [posthtml/posthtml-plugins](https://github.com/posthtml/posthtml-plugins) - PostHTML Plugins Catalog
 - [thiagovallory/meutube](https://github.com/thiagovallory/meutube) - Embed YouTube Video to run in old browsers
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [SabrinaBarros/ditto-boilerplate](https://github.com/SabrinaBarros/ditto-boilerplate) - ⚙️ Simple and elegant Front-End boilerplate, developed with HTML and vanilla CSS ☂️
 - [Gogolian/babyagi-js-html](https://github.com/Gogolian/babyagi-js-html) - 
