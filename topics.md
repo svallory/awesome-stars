@@ -1645,6 +1645,7 @@
 
 ## others 
 
+- [RohanVashisht1234/flowbite-icons-marko](https://github.com/RohanVashisht1234/flowbite-icons-marko) - 
 - [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension) - Build browser extensions with Svelte (early prototype)
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [cva-design/figma-sdk](https://github.com/cva-design/figma-sdk) - An SDK for creating Figma plugins using Svelte
