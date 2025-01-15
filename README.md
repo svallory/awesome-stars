@@ -32,6 +32,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Marko](#marko)
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [Objective-C](#objective-c)
@@ -520,6 +521,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Marko 
+
+- [RohanVashisht1234/flowbite-icons-marko](https://github.com/RohanVashisht1234/flowbite-icons-marko) - 
 
 ## Nix 
 
