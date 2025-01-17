@@ -773,7 +773,7 @@
 ## Rust 
 
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -1073,7 +1073,7 @@
 - [TypeFox/djinject](https://github.com/TypeFox/djinject) - Dependency injection done right.
 - [recombX/langium-utils](https://github.com/recombX/langium-utils) - 
 - [TypeFox/langium-ui-framework](https://github.com/TypeFox/langium-ui-framework) - A DSL for generating user interfaces, built with Langium
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
 - [liaobinbin/fig-to-json](https://github.com/liaobinbin/fig-to-json) - figma .fig file to json data
 - [yagudaev/figma-to-json](https://github.com/yagudaev/figma-to-json) - 💾 Read/Write Figma Files as JSON
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
