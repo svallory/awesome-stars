@@ -92,6 +92,7 @@
 
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [c272/iro4cli](https://github.com/c272/iro4cli) - An open-source rewrite of Iro, a grammar generator, supporting automatic VSCode & Atom extension generation.
+- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
@@ -382,7 +383,6 @@
 - [webdiscus/pug-plugin](https://github.com/webdiscus/pug-plugin) - Renders Pug template to HTML or template function. Resolves source files of scripts, styles, images in Pug . Uses Pug template as entry point.
 - [slm-lang/slm](https://github.com/slm-lang/slm) - Slim, Jade like template engine for node
 - [thomas-lowry/figma-plugin-ds-svelte](https://github.com/thomas-lowry/figma-plugin-ds-svelte) - Figma Plugin DS components made with Svelte
-- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
