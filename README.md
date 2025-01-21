@@ -348,7 +348,7 @@
 - [fignite/svelte-template](https://github.com/fignite/svelte-template) - A boilerplate template for creating Svelte Figma plugins and widgets
 - [fignite/svelte-adapter-figma](https://github.com/fignite/svelte-adapter-figma) - 
 - [didoo/figma-api](https://github.com/didoo/figma-api) - Figma REST API implementation with TypeScript, Promises & ES6
-- [pulsar-edit/first-mate](https://github.com/pulsar-edit/first-mate) - TextMate helpers
+- [pulsar-edit/first-mate](https://github.com/pulsar-edit/first-mate) - :lock: TextMate helpers
 - [eXodes/nx-monorepo](https://github.com/eXodes/nx-monorepo) - NX monorepo setup with SvelteKit and NestJS. Libraries in this repository are not set to be buildable and publishable.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
