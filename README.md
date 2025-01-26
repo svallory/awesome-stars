@@ -133,6 +133,7 @@
 ## CSS 
 
 - [cva-design/figma-sdk](https://github.com/cva-design/figma-sdk) - An SDK for creating Figma plugins using Svelte
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [CrookedGrin/maximum-override](https://github.com/CrookedGrin/maximum-override) - Figma plugin for comparing nodes and copying/pasting overrides.
 - [kaizau/middleman-template-kaizau](https://github.com/kaizau/middleman-template-kaizau) - A blank middleman template with sensible defaults and helpers. Install in ~/.middleman.
 - [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
@@ -975,7 +976,6 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
 - [ryonakae/figma-plugin-run-plugin-api](https://github.com/ryonakae/figma-plugin-run-plugin-api) - A Figma plugin that can run the Figma Plugin API
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
 - [sujjeee/linknode](https://github.com/sujjeee/linknode) - LinkNode is an open-source tool that helps you generate one link for all your links. 🔗🌐
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [maxakuru/franklin-figma](https://github.com/maxakuru/franklin-figma) - 
