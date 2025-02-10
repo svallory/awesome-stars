@@ -1187,7 +1187,7 @@
 - [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
 - [mike-lischke/antlr4-c3](https://github.com/mike-lischke/antlr4-c3) - A grammar agnostic code completion engine for ANTLR4 based parsers
 - [mike-lischke/vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4) - ANTLR4 language support for Visual Studio Code
-- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR. Ported from the old ANTLR4 Java tool to allow for new features and flexible use.
+- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [mike-lischke/java2typescript](https://github.com/mike-lischke/java2typescript) - A Node.js tool to convert Java source code to Typescript
 - [tunnelvisionlabs/antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target for ANTLR 4
 - [dittowords/figma-plugin-react-template](https://github.com/dittowords/figma-plugin-react-template) - Figma Plugin template with  React, Webpack and hot reloading
