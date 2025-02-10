@@ -1605,7 +1605,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
-- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR. Ported from the old ANTLR4 Java tool to allow for new features and flexible use.
+- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 
 ## openai 
@@ -2243,7 +2243,7 @@
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mike-lischke/vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4) - ANTLR4 language support for Visual Studio Code
-- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR. Ported from the old ANTLR4 Java tool to allow for new features and flexible use.
+- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 ## php 
 
@@ -2545,7 +2545,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 
 ## sketch 
 
@@ -2792,7 +2791,7 @@
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
-- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR. Ported from the old ANTLR4 Java tool to allow for new features and flexible use.
+- [mike-lischke/antlr-ng](https://github.com/mike-lischke/antlr-ng) - The next generation of ANTLR, a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [tunnelvisionlabs/antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target for ANTLR 4
 - [CodelyTV/typescript-basic-skeleton](https://github.com/CodelyTV/typescript-basic-skeleton) - 🔷🌱 TypeScript Basic Skeleton: Template for bootstrapping your new TypeScript project following idiomatic best practices.
 - [candidosales/figma-plugin-svelte-vite](https://github.com/candidosales/figma-plugin-svelte-vite) - A boilerplate for creating Figma plugins with Svelte, Vite and Typescript
