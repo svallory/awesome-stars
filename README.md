@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -73,6 +74,10 @@
 ## Batchfile 
 
 - [ninject/Ninject.Web.Mvc.FluentValidation](https://github.com/ninject/Ninject.Web.Mvc.FluentValidation) - Fluent validation extension for ninject.web.mvc
+
+## Blade 
+
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C 
 
@@ -619,7 +624,6 @@
 - [yiiext/with-related-behavior](https://github.com/yiiext/with-related-behavior) - Allows to manage related records
 - [theblacksmith/giix-haml](https://github.com/theblacksmith/giix-haml) - Yii Gii eXtended + Haml templates and some improvements
 - [willnorris/wordpress-snowflake](https://github.com/willnorris/wordpress-snowflake) - WordPress plugin to aid in content syndication
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [theblacksmith/Baze](https://github.com/theblacksmith/Baze) - A PHP framework inspired by .Net
 - [pods-framework/pods](https://github.com/pods-framework/pods) - The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add y
 - [brianpurkiss/Whiteboard-Framework](https://github.com/brianpurkiss/Whiteboard-Framework) - Whiteboard is a true WordPress framework, designed to speed up development time without the need to write or remove any excess code.
