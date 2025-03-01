@@ -196,13 +196,14 @@
 
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supp
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -211,7 +212,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -221,7 +222,7 @@
 - [lukechilds/humanscript](https://github.com/lukechilds/humanscript) - A truly natural scripting language
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
@@ -251,13 +252,13 @@
 - [0xytoken/coingecko_pack](https://github.com/0xytoken/coingecko_pack) - My CoinGecko pack allows you to frictionlessly query CoinGecko for any crypto, to empower you to get the best insights and most custom possible
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
 ## android 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -269,7 +270,7 @@
 - [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
@@ -334,7 +335,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
 - [theemo-tokens/figma-theemo](https://github.com/theemo-tokens/figma-theemo) - Figma plugin to reference styles
@@ -485,7 +486,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
@@ -542,7 +543,7 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [juliankrispel/bishbosh](https://github.com/juliankrispel/bishbosh) - Proposal - BishBosh - A domain specific language for writing command line interfaces
@@ -868,7 +869,7 @@
 ## flutter 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [rodydavis/figma_flutter_plugin](https://github.com/rodydavis/figma_flutter_plugin) - Example of how to use Flutter Web in a Figma Pluigin
 - [gridaco/code](https://github.com/gridaco/code) - Design to Code Engine
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
@@ -926,7 +927,7 @@
 
 ## git 
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -972,11 +973,11 @@
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [MichaelThessel/gomainr](https://github.com/MichaelThessel/gomainr) - Terminal cli app that checks the availability of domains for different configurations of keywords.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1023,7 +1024,7 @@
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1101,11 +1102,11 @@
 ## ios 
 
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [astrotars/stream-flutter](https://github.com/astrotars/stream-flutter) - Building a Social Network with Stream Activity Feeds and Flutter
 
 ## iot 
@@ -1158,7 +1159,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [CodelyTV/eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practises
@@ -1260,6 +1261,7 @@
 ## linux 
 
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1279,8 +1281,8 @@
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supp
 - [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [rizerphe/local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling) - A tool for generating function arguments and choosing what function to call with local LLMs
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1468,13 +1470,13 @@
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [Shipixen/examples](https://github.com/Shipixen/examples) - Various UI examples
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1484,9 +1486,9 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -1595,7 +1597,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1610,7 +1612,7 @@
 
 ## openai 
 
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -1618,7 +1620,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
@@ -1680,7 +1682,6 @@
 - [purag/shook](https://github.com/purag/shook) - :fishing_pole_and_fish: Automated glob-based shell command hooks
 - [stefan-karger/solid-ui](https://github.com/stefan-karger/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
 - [felixrieseberg/windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - :telescope: Turning Windows into an environment ready for modern development
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [dotenvx/dotenvx.sh](https://github.com/dotenvx/dotenvx.sh) - install `dotenvx` via curl
 - [jetify-com/devbox-plugins](https://github.com/jetify-com/devbox-plugins) - Collection of Plugins for Devbox
 - [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
@@ -1964,7 +1965,7 @@
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [XpressAI/xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
 - [XpressAI/xai-openai](https://github.com/XpressAI/xai-openai) - OpenAI components for Xircuits
@@ -1991,7 +1992,7 @@
 - [haikyuu/perfect-stack](https://github.com/haikyuu/perfect-stack) - A port of ping crm demo to Imba, node and edgedb using imba and node inertia adapters
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [thomas-lowry/figma-plugin-ds-svelte](https://github.com/thomas-lowry/figma-plugin-ds-svelte) - Figma Plugin DS components made with Svelte
-- [mike-lischke/antlr4-c3](https://github.com/mike-lischke/antlr4-c3) - A grammar agnostic code completion engine for ANTLR4 based parsers
+- [mike-lischke/antlr4-c3](https://github.com/mike-lischke/antlr4-c3) - A grammar agnostic code completion engine for antlr-ng and ANTLR4 based parsers
 - [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [mike-lischke/java2typescript](https://github.com/mike-lischke/java2typescript) - A Node.js tool to convert Java source code to Typescript
@@ -2280,7 +2281,7 @@
 ## privacy 
 
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2310,7 +2311,7 @@
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -2361,7 +2362,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [Shipixen/examples](https://github.com/Shipixen/examples) - Various UI examples
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -2376,7 +2377,7 @@
 - [alexadam/printable-mockups](https://github.com/alexadam/printable-mockups) - Create printable UI mockups & wireframes templates
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -2389,7 +2390,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
@@ -2413,13 +2414,13 @@
 ## react-native 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [infinitered/apisauce](https://github.com/infinitered/apisauce) - Axios + standardized errors + request/response transforms.
 
 ## reactjs 
 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -2518,7 +2519,7 @@
 
 - [upstash/roadmap](https://github.com/upstash/roadmap) - Build and deploy a roadmap voting app for your project/product.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## shell 
@@ -2626,7 +2627,7 @@
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A highly-opinionated base for building shareable Svelte 3 components
@@ -2656,7 +2657,7 @@
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [ecklf/tailwindcss-figma-kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS
 - [eXodes/nx-monorepo](https://github.com/eXodes/nx-monorepo) - NX monorepo setup with SvelteKit and NestJS. Libraries in this repository are not set to be buildable and publishable.
@@ -2680,7 +2681,7 @@
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -2714,17 +2715,18 @@
 
 ## typescript 
 
+- [demike/TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
 - [moonrepo/dev](https://github.com/moonrepo/dev) - Official moon developer tools and shared configurations for popular JavaScript tooling.
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
@@ -2749,7 +2751,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [0xytoken/coingecko_pack](https://github.com/0xytoken/coingecko_pack) - My CoinGecko pack allows you to frictionlessly query CoinGecko for any crypto, to empower you to get the best insights and most custom possible
 - [okotoki/figma-messenger](https://github.com/okotoki/figma-messenger) - Type-safe communication for good 🧐.
-- [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
+- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
@@ -2766,7 +2768,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
@@ -2864,7 +2866,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
