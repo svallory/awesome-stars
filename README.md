@@ -863,7 +863,7 @@
 ## Svelte 
 
 - [imohanvadivel/figblocks](https://github.com/imohanvadivel/figblocks) - An Open-source UI component library for building Figma plugins with svelte.
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁 🌸
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [CaptainCodeman/svelte-form-helper](https://github.com/CaptainCodeman/svelte-form-helper) - Lightweight helpers for form validation with Svelte
