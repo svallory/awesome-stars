@@ -669,7 +669,7 @@
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -1032,7 +1032,7 @@
 - [jrmkim50/coda-nifti-pack](https://github.com/jrmkim50/coda-nifti-pack) - 
 - [randyyan2000/lol-coda-pack](https://github.com/randyyan2000/lol-coda-pack) - 
 - [mbilokonsky/coda-pack-gpt-plus](https://github.com/mbilokonsky/coda-pack-gpt-plus) - A coda pack that enables a number of powerful GPT operations.
-- [troy-larson/gmail-labels-and-filters-magic-coda-pack](https://github.com/troy-larson/gmail-labels-and-filters-magic-coda-pack) - 
+- [calvinware/gmail-labels-and-filters-magic-coda-pack](https://github.com/calvinware/gmail-labels-and-filters-magic-coda-pack) - "A JavaScript library for managing Gmail filters, labels, and messages using the Coda Packs SDK and Google APIs."
 - [randyyan2000/genshin-coda-pack](https://github.com/randyyan2000/genshin-coda-pack) - 
 - [useVenice/coda-pack-attio](https://github.com/useVenice/coda-pack-attio) - 
 - [faridsabitov/Confluence-Coda-Pack](https://github.com/faridsabitov/Confluence-Coda-Pack) - 
