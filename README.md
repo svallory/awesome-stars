@@ -1043,8 +1043,6 @@
 - [cobudget/cobudget-coda](https://github.com/cobudget/cobudget-coda) - A coda.io pack for Cobudget.
 - [boredom101/coda-relative-date](https://github.com/boredom101/coda-relative-date) - Coda pack for relative dates source code
 - [khrome/coda-youtrack-pack](https://github.com/khrome/coda-youtrack-pack) - Youtrack integration for Coda.io
-- [gshen7/goodreadsScraper](https://github.com/gshen7/goodreadsScraper) - Code for Goodreads scraper coda pack (https://coda.io/packs/goodreads-scraper-14853)
-- [gshen7/SimpleStats](https://github.com/gshen7/SimpleStats) - Code for StatKit coda pack (https://coda.io/packs/statkit-11090)
 - [ben-codaio/HTML-Email-Builder-Pack](https://github.com/ben-codaio/HTML-Email-Builder-Pack) - Generate the HTML code needed to send professional, newsletter style emails from the Gmail pack in Coda.
 - [AlahmadiQ8/stackoverflow-pack](https://github.com/AlahmadiQ8/stackoverflow-pack) - Stackoverflow coda.io plugin (pack)
 - [zurawiki/coda-pack-relative-date](https://github.com/zurawiki/coda-pack-relative-date) - coda-pack-relative-date
