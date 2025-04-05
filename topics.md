@@ -205,7 +205,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -311,7 +311,7 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A concise but complete full-attention transformer with a set of promising experimental features from various papers
-- [AutoPackAI/beebot](https://github.com/AutoPackAI/beebot) - An Autonomous AI Agent that works
+- [erik-megarad/beebot](https://github.com/erik-megarad/beebot) - An Autonomous AI Agent that works
 - [lukechilds/humanscript](https://github.com/lukechilds/humanscript) - A truly natural scripting language
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -897,7 +897,7 @@
 - [PsychoLlama/wardens](https://github.com/PsychoLlama/wardens) - A tiny framework for managing resources
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -1693,7 +1693,6 @@
 - [webdriverio/bx](https://github.com/webdriverio/bx) - Command line tool to run JavaScript, TypeScript or HTML files in the browser.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
 - [purag/shook](https://github.com/purag/shook) - :fishing_pole_and_fish: Automated glob-based shell command hooks
-- [stefan-karger/solid-ui](https://github.com/stefan-karger/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
 - [felixrieseberg/windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - :telescope: Turning Windows into an environment ready for modern development
 - [dotenvx/dotenvx.sh](https://github.com/dotenvx/dotenvx.sh) - install `dotenvx` via curl
 - [jetify-com/devbox-plugins](https://github.com/jetify-com/devbox-plugins) - Collection of Plugins for Devbox
@@ -1742,7 +1741,7 @@
 - [posthtml/posthtml-plugins](https://github.com/posthtml/posthtml-plugins) - PostHTML Plugins Catalog
 - [posthtml/awesome-posthtml](https://github.com/posthtml/awesome-posthtml) - A curated list of awesome things related to PostHTML
 - [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Benchmark the speed of different Zsh plugin managers
-- [kinggongzilla/ai-clone-whatsapp](https://github.com/kinggongzilla/ai-clone-whatsapp) - Create an AI clone of yourself from your WhatsApp chats (using Llama 3)
+- [LatentMindAI/perzonalized-ai-chatbot](https://github.com/LatentMindAI/perzonalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -1847,8 +1846,6 @@
 - [cobudget/cobudget-coda](https://github.com/cobudget/cobudget-coda) - A coda.io pack for Cobudget.
 - [boredom101/coda-relative-date](https://github.com/boredom101/coda-relative-date) - Coda pack for relative dates source code
 - [khrome/coda-youtrack-pack](https://github.com/khrome/coda-youtrack-pack) - Youtrack integration for Coda.io
-- [gshen7/goodreadsScraper](https://github.com/gshen7/goodreadsScraper) - Code for Goodreads scraper coda pack (https://coda.io/packs/goodreads-scraper-14853)
-- [gshen7/SimpleStats](https://github.com/gshen7/SimpleStats) - Code for StatKit coda pack (https://coda.io/packs/statkit-11090)
 - [ben-codaio/HTML-Email-Builder-Pack](https://github.com/ben-codaio/HTML-Email-Builder-Pack) - Generate the HTML code needed to send professional, newsletter style emails from the Gmail pack in Coda.
 - [siriusnottin/upload-coda-pack](https://github.com/siriusnottin/upload-coda-pack) - Uploads a Pack to Coda.
 - [AlahmadiQ8/stackoverflow-pack](https://github.com/AlahmadiQ8/stackoverflow-pack) - Stackoverflow coda.io plugin (pack)
@@ -1966,7 +1963,7 @@
 - [codeque-co/codeque](https://github.com/codeque-co/codeque) - Find and lint complex code patterns effortlessly
 - [trueagi-io/hyperon-experimental](https://github.com/trueagi-io/hyperon-experimental) - MeTTa programming language implementation
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
-- [cluesurf/tree](https://github.com/cluesurf/tree) - A Data Modeling Programming Language 🍀
+- [cluesurf/tree](https://github.com/cluesurf/tree) - A Modeling Notation ꕤ
 - [xchoo/spaun2.0](https://github.com/xchoo/spaun2.0) - Spaun (nengo 2.0 version)
 - [williamleif/GraphSAGE](https://github.com/williamleif/GraphSAGE) - Representation learning on large graphs using stochastic graph convolutions.
 - [TypeFox/xtext2langium](https://github.com/TypeFox/xtext2langium) - A tool for migrating an Xtext language to Langium
@@ -2016,7 +2013,7 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [dbanksdesign/nu-disco-vscode-theme](https://github.com/dbanksdesign/nu-disco-vscode-theme) - 
 - [CodelyTV/figma-plugin-skeleton](https://github.com/CodelyTV/figma-plugin-skeleton) - 🪆 Template intended to serve as a starting point if you want to bootstrap a Figma Plugin in TypeScript.
-- [termsurfback/term.land](https://github.com/termsurfback/term.land) - Dictionary website made in Link (WIP)
+- [cluesurfback/term.land](https://github.com/cluesurfback/term.land) - Dictionary website made in Link (WIP)
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [headwindz/figx](https://github.com/headwindz/figx) - A comprehensive and reliable figma utilities library
 - [thomas-lowry/figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) - A small lightweight design system for use in Figma Plugins
@@ -2229,7 +2226,6 @@
 - [yscik/sphasps](https://github.com/yscik/sphasps) - SASS parser for PHP
 - [dmtrs/unofficial-yii-framework-mirror](https://github.com/dmtrs/unofficial-yii-framework-mirror) - This is an unofficial yii framework mirrod, used only for read.
 - [frapi/frapi](https://github.com/frapi/frapi) - FRAPI is an API Open Source framework, run it within your hosting environment parallel to your web app, mobile service or legacy system.
-- [daoki2/xib2js](https://github.com/daoki2/xib2js) - .xib file to JavaScript translator for Titanium Mobile
 - [jashkenas/coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle) - A TextMate Bundle for CoffeeScript
 - [phuibonhoa/handcrafted-haml-textmate-bundle](https://github.com/phuibonhoa/handcrafted-haml-textmate-bundle) - HAML Bundle for Textmate
 - [subsonic/SubSonic-3.0-Templates](https://github.com/subsonic/SubSonic-3.0-Templates) - T4 Template Project for the peeps
@@ -2322,7 +2318,7 @@
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
@@ -2661,6 +2657,7 @@
 
 ## tailwindcss 
 
+- [stefan-karger/solid-ui](https://github.com/stefan-karger/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
 - [petalframework/petal_components](https://github.com/petalframework/petal_components) - Phoenix + Live View HEEX Components
 - [Shipixen/examples](https://github.com/Shipixen/examples) - Various UI examples
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
