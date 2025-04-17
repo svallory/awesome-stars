@@ -1091,6 +1091,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [svartajs/svarta](https://github.com/svartajs/svarta) - Typescript REST API framework
 - [silentworks/waiting-list](https://github.com/silentworks/waiting-list) - A Waiting list application built on Supabase
@@ -1309,7 +1310,6 @@
 ## Vue 
 
 - [GBKS/bitcoin-ui-kit-penpot-api-test](https://github.com/GBKS/bitcoin-ui-kit-penpot-api-test) - 
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [aschwtzr/chatGPT-vue3-fastapi](https://github.com/aschwtzr/chatGPT-vue3-fastapi) - Super Simple Front and Backend for chatGPT style-conversations and babyagis
 - [tony19-sandbox/vite-vue-figma-plugin-demo](https://github.com/tony19-sandbox/vite-vue-figma-plugin-demo) - Figma plugin written with Vue and Vite
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
