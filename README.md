@@ -415,7 +415,7 @@
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [mjbvz/vscode-comment-tagged-templates](https://github.com/mjbvz/vscode-comment-tagged-templates) - Syntax highlighting for JS and TS tagged template strings using comments to specify language
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [spacedeck/spacedeck-open](https://github.com/spacedeck/spacedeck-open) - Spacedeck, a web based, real time, collaborative whiteboard application with rich media support
 - [plasmicapp/nextjs-starter-plv1](https://github.com/plasmicapp/nextjs-starter-plv1) - 
@@ -664,7 +664,7 @@
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -877,6 +877,7 @@
 
 ## TypeScript 
 
+- [marko-js-polo/run-adapters](https://github.com/marko-js-polo/run-adapters) - Inline all assets into each route HTML file, allowing you to use Marko Run to create browser extensions and Figma plugins.
 - [demike/TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
 - [kocheck/Figma-Scripter](https://github.com/kocheck/Figma-Scripter) - Collection of scripts borrowed or written to be used the the Figma plugin Scripter
 - [tigranpetrossian/figma-kit](https://github.com/tigranpetrossian/figma-kit) - A set of React components for building Figma plugins.
