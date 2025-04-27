@@ -163,7 +163,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rodydavis/figma_flutter_plugin](https://github.com/rodydavis/figma_flutter_plugin) - Example of how to use Flutter Web in a Figma Pluigin
 - [waseemdev/flutter_xmllayout_helpers](https://github.com/waseemdev/flutter_xmllayout_helpers) - Helper widgets & classes for XML Layout extension for vscode
@@ -444,7 +444,6 @@
 - [globocom/share-bar](https://github.com/globocom/share-bar) - A pure JS plugin to generate a share bar for social media, used by Globo.com.
 - [diki/nodejs-passport-boilerplate](https://github.com/diki/nodejs-passport-boilerplate) - nodejs passport boilerplate
 - [konitter/rootsstrap](https://github.com/konitter/rootsstrap) - Roots + Bootstrap
-- [paulmillr/scaffolt](https://github.com/paulmillr/scaffolt) - Dead-simple JSON-based scaffolder.
 - [fastrde/abee](https://github.com/fastrde/abee) - template-based meteor scaffolding application.
 - [meanjs/mean](https://github.com/meanjs/mean) - MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js -
 - [mozilla/source-map](https://github.com/mozilla/source-map) - Consume and generate source maps.
@@ -1087,7 +1086,7 @@
 - [rangle/radius-workspace](https://github.com/rangle/radius-workspace) - Main workspace for the new version of Radius
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
@@ -1140,7 +1139,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [jake-figma/component-inspector](https://github.com/jake-figma/component-inspector) - A Figma plugin for inspecting Figma components
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [mornir/habitica-bot](https://github.com/mornir/habitica-bot) - ⚒ A Cloudflare Worker that makes use of the Habitica API and Discord Webhooks
 - [SuperChamp234/habitica-sync](https://github.com/SuperChamp234/habitica-sync) - This is a under-development Obsidian Plugin for Habitica
 - [starptr/habitica-presenter](https://github.com/starptr/habitica-presenter) - 
