@@ -335,7 +335,7 @@
 
 ## automation 
 
-- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
@@ -432,7 +432,7 @@
 
 ## bash 
 
-- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -1258,7 +1258,7 @@
 
 ## library 
 
-- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [secundant/neodx](https://github.com/secundant/neodx) - A collection of frontend-focused tools aimed at enhancing your development experience
