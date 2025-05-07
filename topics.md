@@ -1678,6 +1678,7 @@
 
 ## others 
 
+- [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [marko-js-polo/run-adapters](https://github.com/marko-js-polo/run-adapters) - Inline all assets into each route HTML file, allowing you to use Marko Run to create browser extensions and Figma plugins.
 - [RohanVashisht1234/flowbite-icons-marko](https://github.com/RohanVashisht1234/flowbite-icons-marko) - 
 - [antony/sveltekit-adapter-browser-extension](https://github.com/antony/sveltekit-adapter-browser-extension) - Build browser extensions with Svelte (early prototype)
