@@ -936,7 +936,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
