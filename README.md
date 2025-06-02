@@ -729,7 +729,7 @@
 - [slavakurilyak/agentx](https://github.com/slavakurilyak/agentx) - AgentX is an experiment to develop autonomous agents so you can automate everything! This project is inspired by Auto-GPT, babyagi, SuperAGI, and other agents.
 - [murchie85/GPT_AUTOMATE](https://github.com/murchie85/GPT_AUTOMATE) - An automation harness for GPT to produce a full ready to go code poject.
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
 - [alexfacehead/AutoGPTCommands](https://github.com/alexfacehead/AutoGPTCommands) - AutoGPT with commands, read/write/del access. Edit .env file for working changes
