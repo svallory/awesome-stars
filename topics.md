@@ -1059,7 +1059,6 @@
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [figma/plugin-resources](https://github.com/figma/plugin-resources) - A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -1898,7 +1897,7 @@
 - [darknoon/figma-json-plugin](https://github.com/darknoon/figma-json-plugin) - Figma Document ↔︎ JSON
 - [didoo/figma-api](https://github.com/didoo/figma-api) - Figma REST API implementation with TypeScript, Promises & ES6
 - [figma/widget-typings](https://github.com/figma/widget-typings) - Typings for the Figma Widget API
-- [logeast/figma-uml-widget](https://github.com/logeast/figma-uml-widget) - A widget to create a UML diagram for FigJam or Figma.
+- [orienslu/figma-uml-widget](https://github.com/orienslu/figma-uml-widget) - A widget to create a UML diagram for FigJam or Figma.
 - [stefanwittwer/FigType](https://github.com/stefanwittwer/FigType) - 🪄 Figma widget for modeling simple types and entities in FigJam
 - [mrstev3n/figma-widgets-on-github](https://github.com/mrstev3n/figma-widgets-on-github) - A list of Figma widgets and related resources that have been shared on Github.
 - [pulsar-edit/first-mate](https://github.com/pulsar-edit/first-mate) - :lock: TextMate helpers
@@ -1923,6 +1922,7 @@
 - [nathansobo/screw-unit](https://github.com/nathansobo/screw-unit) - A Javascript BDD Framework with nested describes, a convenient assertion syntax, and an intuitive test browser.
 - [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk) - monorepo for the Agoric Javascript smart contract platform
 - [nightwatchjs/nightwatch-inspector](https://github.com/nightwatchjs/nightwatch-inspector) - Nightwatch Selector Playground that allows you to tests command directly from the browser
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [rangle/radius](https://github.com/rangle/radius) - A design system accelerator
 - [rangle/radius-angular](https://github.com/rangle/radius-angular) - 
 - [rangle/radius-workspace](https://github.com/rangle/radius-workspace) - Main workspace for the new version of Radius
