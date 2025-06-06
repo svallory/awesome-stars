@@ -1069,7 +1069,7 @@
 - [darknoon/figma-json-plugin](https://github.com/darknoon/figma-json-plugin) - Figma Document ↔︎ JSON
 - [figma-tools/figma-transformer](https://github.com/figma-tools/figma-transformer) - A tiny utility library that makes the Figma API more human friendly.
 - [mikaelvesavuori/figmagic](https://github.com/mikaelvesavuori/figmagic) - Figmagic is the missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-- [logeast/figma-uml-widget](https://github.com/logeast/figma-uml-widget) - A widget to create a UML diagram for FigJam or Figma.
+- [orienslu/figma-uml-widget](https://github.com/orienslu/figma-uml-widget) - A widget to create a UML diagram for FigJam or Figma.
 - [stefanwittwer/FigType](https://github.com/stefanwittwer/FigType) - 🪄 Figma widget for modeling simple types and entities in FigJam
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
 - [TypeFox/djinject](https://github.com/TypeFox/djinject) - Dependency injection done right.
