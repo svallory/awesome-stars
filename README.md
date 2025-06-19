@@ -264,7 +264,6 @@
 - [posthtml/posthtml-plugins](https://github.com/posthtml/posthtml-plugins) - PostHTML Plugins Catalog
 - [thiagovallory/meutube](https://github.com/thiagovallory/meutube) - Embed YouTube Video to run in old browsers
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [SabrinaBarros/ditto-boilerplate](https://github.com/SabrinaBarros/ditto-boilerplate) - ⚙️ Simple and elegant Front-End boilerplate, developed with HTML and vanilla CSS ☂️
 - [Gogolian/babyagi-js-html](https://github.com/Gogolian/babyagi-js-html) - 
@@ -372,6 +371,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cferdinandi/build-tool-boilerplate](https://github.com/cferdinandi/build-tool-boilerplate) - A simple boilerplate for using NPM tasks to build and compile JavaScript, CSS, and image files.
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [NakedJSX/core](https://github.com/NakedJSX/core) - The NakedJSX development server and build tool.
@@ -950,7 +950,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
