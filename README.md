@@ -196,6 +196,9 @@
 
 ## Go 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [minhio/devpod-provider-multipass](https://github.com/minhio/devpod-provider-multipass) - Canonical Multipass provider for DevPod
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [blacktop/mcp-tts](https://github.com/blacktop/mcp-tts) - MCP Server for Text to Speech
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -899,7 +902,6 @@
 ## TypeScript 
 
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
 - [marko-js-polo/run-adapters](https://github.com/marko-js-polo/run-adapters) - Inline all assets into each route HTML file, allowing you to use Marko Run to create browser extensions and Figma plugins.
 - [demike/TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
@@ -954,7 +956,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
