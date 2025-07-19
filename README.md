@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
@@ -58,6 +59,10 @@
 - [XML](#xml)
 - [Xtend](#xtend)
 
+## ANTLR 
+
+- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
+
 ## Astro 
 
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
@@ -94,7 +99,6 @@
 
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [c272/iro4cli](https://github.com/c272/iro4cli) - An open-source rewrite of Iro, a grammar generator, supporting automatic VSCode & Atom extension generation.
-- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
@@ -306,6 +310,8 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
 - [shikijs/textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes) - Collection of TextMate grammars and themes in JSON
 - [bpmn-io/diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web.
 - [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
@@ -340,7 +346,7 @@
 - [kashifulhaque/product-mockup-node-python](https://github.com/kashifulhaque/product-mockup-node-python) - Create near perfect product mockups using ImageMagick, Node.js and Python
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-- [henry-luo/mark](https://github.com/henry-luo/mark) - A simple and unified notation for both object and markup data. (beta)
+- [henry-luo/mark](https://github.com/henry-luo/mark) - A simple and unified notation for both object and markup data.
 - [henry-luo/mark-template](https://github.com/henry-luo/mark-template) - JS template engine inspired by JSX and XSLT (beta)
 - [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -554,6 +560,7 @@
 
 ## Others 
 
+- [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
 - [bitovi/github-actions-storybook-to-github-pages](https://github.com/bitovi/github-actions-storybook-to-github-pages) - Deploy a Storybook build to GitHub Pages
@@ -669,7 +676,7 @@
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, 
 - [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker) - The day-to-day front-end to the IETF database for people who work on IETF standards.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
@@ -689,7 +696,7 @@
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [LatentMindAI/perzonalized-ai-chatbot](https://github.com/LatentMindAI/perzonalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
+- [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -703,7 +710,7 @@
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 - [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
 - [bdqnghi/ast-node-encoding](https://github.com/bdqnghi/ast-node-encoding) - A tool to convert nodes in an Abstract Syntax Tree into vector embeddings
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [erik-megarad/beebot](https://github.com/erik-megarad/beebot) - An Autonomous AI Agent that works
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [facebookresearch/textlesslib](https://github.com/facebookresearch/textlesslib) - Library for Textless Spoken Language Processing
@@ -715,7 +722,7 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -835,6 +842,7 @@
 
 ## Shell 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
@@ -902,6 +910,7 @@
 
 ## TypeScript 
 
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies.
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
 - [marko-js-polo/run-adapters](https://github.com/marko-js-polo/run-adapters) - Inline all assets into each route HTML file, allowing you to use Marko Run to create browser extensions and Figma plugins.
