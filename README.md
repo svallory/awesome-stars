@@ -910,6 +910,7 @@
 
 ## TypeScript 
 
+- [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies.
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
@@ -975,7 +976,7 @@
 - [mpeg/marko-cloudflare-vite-hono](https://github.com/mpeg/marko-cloudflare-vite-hono) - 
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [permitio/permit-node](https://github.com/permitio/permit-node) - Node.js SDK for Permit.io: Plug & Play Application Level Authorization
 - [kpolley/GitChat](https://github.com/kpolley/GitChat) - Chat with your git repo
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
