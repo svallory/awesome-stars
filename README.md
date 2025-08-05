@@ -787,7 +787,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [rackspace-cookbooks/mariadb](https://github.com/rackspace-cookbooks/mariadb) - 
 - [brunofrank/moip-transparente](https://github.com/brunofrank/moip-transparente) - Integração do MOIP com checkout transparente.
 - [trogdoro/xiki](https://github.com/trogdoro/xiki) - A shell console with GUI features
