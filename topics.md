@@ -200,7 +200,6 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -646,7 +645,7 @@
 
 ## code 
 
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers.
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 
@@ -1807,6 +1806,8 @@
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [bicyclesystems/rfrncs.design](https://github.com/bicyclesystems/rfrncs.design) - 
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
+- [jirutka/zsh-shift-select](https://github.com/jirutka/zsh-shift-select) - Select text in Zsh command line using Shift, as in many text editors and GUI programs
 - [Synopsis/whisper_ane](https://github.com/Synopsis/whisper_ane) - 
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -2627,7 +2628,7 @@
 
 ## server 
 
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - MCP server providing semantic memory and persistent storage capabilities for Claude using ChromaDB and sentence transformers.
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [eclipse-sprotty/sprotty-server](https://github.com/eclipse-sprotty/sprotty-server) - Server implementation for the Sprotty diagramming framework
@@ -3104,27 +3105,6 @@
 ## xml 
 
 - [henry-luo/mark](https://github.com/henry-luo/mark) - A simple and unified notation for both object and markup data.
-
-## zsh 
-
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
-- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
-- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
-- [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
-- [jirutka/zsh-shift-select](https://github.com/jirutka/zsh-shift-select) - Select text in Zsh command line using Shift, as in many text editors and GUI programs
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management
-- [BeyondCodeBootcamp/aliasman](https://github.com/BeyondCodeBootcamp/aliasman) - An alias manager for your shells: bash, zsh, and fish (and POSIX sh too, kinda)
-- [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [zulu-zsh/zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 
 
 ## License
