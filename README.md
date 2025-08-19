@@ -375,7 +375,6 @@
 - [barvian/sveltekit-document](https://github.com/barvian/sveltekit-document) - The missing document manager for SvelteKit
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [nathansobo/screw-unit](https://github.com/nathansobo/screw-unit) - A Javascript BDD Framework with nested describes, a convenient assertion syntax, and an intuitive test browser.
-- [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk) - monorepo for the Agoric Javascript smart contract platform
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [nightwatchjs/nightwatch-inspector](https://github.com/nightwatchjs/nightwatch-inspector) - Nightwatch Selector Playground that allows you to tests command directly from the browser
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -693,7 +692,7 @@
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -1125,6 +1124,7 @@
 - [CaptainCodeman/svelte-relative-time](https://github.com/CaptainCodeman/svelte-relative-time) - Relative Time for Svelte
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+- [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk) - monorepo for the Agoric Javascript smart contract platform
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [rangle/radius](https://github.com/rangle/radius) - A design system accelerator
