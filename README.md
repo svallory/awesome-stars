@@ -591,7 +591,6 @@
 - [mrstev3n/figma-widgets-on-github](https://github.com/mrstev3n/figma-widgets-on-github) - A list of Figma widgets and related resources that have been shared on Github.
 - [figma/plugin-resources](https://github.com/figma/plugin-resources) - A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [tembo/tembo](https://github.com/tembo/tembo) - Tembo CLI is the universal CLI for coding agents, with usage tracking and cloud execution.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [dwarvesf/VimMotionApp](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -914,6 +913,10 @@
 
 ## TypeScript 
 
+- [jakub-hajduk/figwire](https://github.com/jakub-hajduk/figwire) - Bidirectional IPC communication between UI and core in Figma plugins. Lightweight and typed.
+- [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+- [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [SubtleTools/lipgloss-ts](https://github.com/SubtleTools/lipgloss-ts) - A comprehensive TypeScript port of Charm's Lipgloss terminal styling library with 100% API compatibility
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [drumnation/ts-import-move](https://github.com/drumnation/ts-import-move) - Use ts-import-move when moving or renaming TypeScript files or directories to ensure all related import paths are automatically updated. This is essential during refactors, restructures, or agent-driv
@@ -1159,6 +1162,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [tembo/tembo](https://github.com/tembo/tembo) - one cli, all the coding agents
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [perrysmotors/figma-variant-organiser](https://github.com/perrysmotors/figma-variant-organiser) - Figma plugin for automatically arranging variants in a grid and generating property labels
 - [penpot/penpot-exporter-figma-plugin](https://github.com/penpot/penpot-exporter-figma-plugin) - Penpot exporter Figma plugin
