@@ -203,7 +203,6 @@
 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [minhio/devpod-provider-multipass](https://github.com/minhio/devpod-provider-multipass) - Canonical Multipass provider for DevPod
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [blacktop/mcp-tts](https://github.com/blacktop/mcp-tts) - MCP Server for Text to Speech
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -657,6 +656,7 @@
 
 ## PLpgSQL 
 
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [usebasejump/basejump](https://github.com/usebasejump/basejump) - Teams, personal accounts, permissions and billing for your Supabase app
 - [usebasejump/supabase-test-helpers](https://github.com/usebasejump/supabase-test-helpers) - Test helpers for pgTAP and Supabase
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
@@ -845,6 +845,7 @@
 
 ## Shell 
 
+- [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
@@ -915,7 +916,6 @@
 
 - [jakub-hajduk/figwire](https://github.com/jakub-hajduk/figwire) - Bidirectional IPC communication between UI and core in Figma plugins. Lightweight and typed.
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [SubtleTools/lipgloss-ts](https://github.com/SubtleTools/lipgloss-ts) - A comprehensive TypeScript port of Charm's Lipgloss terminal styling library with 100% API compatibility
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
@@ -925,6 +925,7 @@
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies.
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
 - [marko-js-polo/run-adapters](https://github.com/marko-js-polo/run-adapters) - Inline all assets into each route HTML file, allowing you to use Marko Run to create browser extensions and Figma plugins.
 - [demike/TsUML2](https://github.com/demike/TsUML2) - Generates UML diagrams from TypeScript source code
@@ -1270,7 +1271,7 @@
 - [lenneTech/cli-starter](https://github.com/lenneTech/cli-starter) - A starter project for CLI with @lenne.tech/cli-plugin-helper and @lenne.tech/npm-package-helper
 - [lenneTech/gluegun-menu](https://github.com/lenneTech/gluegun-menu) - Menu for gluegun CLIs
 - [infinitered/solidarity](https://github.com/infinitered/solidarity) - Solidarity is an environment checker for project dependencies across multiple machines.
-- [xiBread/utilitypes](https://github.com/xiBread/utilitypes) - A library of utility types for TypeScript.
+- [olivermrose/utilitypes](https://github.com/olivermrose/utilitypes) - A library of utility types for TypeScript.
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel) - A strictly typed utility library.
 - [node-ts/bus](https://github.com/node-ts/bus) - A typescript based enterprise service bus framework based on enterprise integration patterns
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
