@@ -926,6 +926,7 @@
 
 ## TypeScript 
 
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
 - [jakub-hajduk/figwire](https://github.com/jakub-hajduk/figwire) - Bidirectional IPC communication between UI and core in Figma plugins. Lightweight and typed.
