@@ -423,7 +423,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sindresorhus/update-notifier](https://github.com/sindresorhus/update-notifier) - Update notifications for your CLI app
 - [Javascipt/Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [sindresorhus/boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
