@@ -615,7 +615,7 @@
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
@@ -1352,6 +1352,7 @@
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A highly-opinionated base for building shareable Svelte 3 components
 - [JB1905/react-figma-ui](https://github.com/JB1905/react-figma-ui) - 🏗️ React implementation for figma-plugin-ds
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [amilajack/awesome-node-cli-libraries](https://github.com/amilajack/awesome-node-cli-libraries) - A list of libraries and infrastructure for building CLI's with node
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 
@@ -1676,7 +1677,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [infinitered/solidarity](https://github.com/infinitered/solidarity) - Solidarity is an environment checker for project dependencies across multiple machines.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
@@ -1970,7 +1971,7 @@
 - [pfelipm/progressrings-coda-pack](https://github.com/pfelipm/progressrings-coda-pack) - A Coda Pack that generates customizable SVG progress rings.
 - [vongohren/coda-meetup-pack](https://github.com/vongohren/coda-meetup-pack) - This is a coda pack for the meetup grapqhl API
 - [pfelipm/dnsquery-coda-pack](https://github.com/pfelipm/dnsquery-coda-pack) - A simple Coda Pack that fetches DNS records.
-- [al-codaio/pinyin-pack](https://github.com/al-codaio/pinyin-pack) - Coda Pack for translating Chinese characters into pinyin and zhuyin
+- [thealchen/pinyin-pack](https://github.com/thealchen/pinyin-pack) - Coda Pack for translating Chinese characters into pinyin and zhuyin
 - [earthpyy/coda-google-chat-pack](https://github.com/earthpyy/coda-google-chat-pack) - Google Chat integrations for Coda Pack
 - [shreyan-gupta/gmail-pack-internal](https://github.com/shreyan-gupta/gmail-pack-internal) - Gmail pack for Coda internal testing
 - [earthpyy/coda-pack-template](https://github.com/earthpyy/coda-pack-template) - Template for initialize a new Coda Pack
