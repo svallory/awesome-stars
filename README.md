@@ -739,6 +739,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Victorwz/LongMem](https://github.com/Victorwz/LongMem) - Official implementation of our NeurIPS 2023 paper "Augmenting Language Models with Long-Term Memory".
@@ -1099,7 +1100,7 @@
 - [khrome/coda-markdown-pack](https://github.com/khrome/coda-markdown-pack) - Use Markdown, because why would you use anything else??
 - [aaroncoville/binge-buddy](https://github.com/aaroncoville/binge-buddy) - Coda Pack for Movie and TV watchlists with TMDB
 - [vongohren/coda-meetup-pack](https://github.com/vongohren/coda-meetup-pack) - This is a coda pack for the meetup grapqhl API
-- [al-codaio/pinyin-pack](https://github.com/al-codaio/pinyin-pack) - Coda Pack for translating Chinese characters into pinyin and zhuyin
+- [thealchen/pinyin-pack](https://github.com/thealchen/pinyin-pack) - Coda Pack for translating Chinese characters into pinyin and zhuyin
 - [earthpyy/coda-google-chat-pack](https://github.com/earthpyy/coda-google-chat-pack) - Google Chat integrations for Coda Pack
 - [shreyan-gupta/gmail-pack-internal](https://github.com/shreyan-gupta/gmail-pack-internal) - Gmail pack for Coda internal testing
 - [earthpyy/coda-pack-template](https://github.com/earthpyy/coda-pack-template) - Template for initialize a new Coda Pack
@@ -1171,7 +1172,6 @@
 - [ComponentDriven/csf](https://github.com/ComponentDriven/csf) - Component Story Format is an open standard for UI component examples based on JavaScript ES6 modules.
 - [matheins/Dorf](https://github.com/matheins/Dorf) - A free and open source form builder
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
