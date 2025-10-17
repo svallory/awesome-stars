@@ -1150,6 +1150,7 @@
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [flaviojmendes/trilhainfo](https://github.com/flaviojmendes/trilhainfo) - 
 - [koolamusic/awesome-imba](https://github.com/koolamusic/awesome-imba) - :star: A curated list of awesome Imba frameworks, libraries, software and resources
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -2135,7 +2136,6 @@
 - [slm-lang/slm](https://github.com/slm-lang/slm) - Slim, Jade like template engine for node
 - [atom/highlights](https://github.com/atom/highlights) - Syntax highlighter
 - [tysam-code/hlb-gpt](https://github.com/tysam-code/hlb-gpt) - Minimalistic, extremely fast, and hackable researcher's toolbench for GPT models in 307 lines of code. Reaches &lt;3.8 validation loss on wikitext-103 on a single A100 in &lt;100 seconds. Scales to la
-- [flaviojmendes/trilhainfo](https://github.com/flaviojmendes/trilhainfo) - 
 - [fwouts/sample-antlr4-typescript](https://github.com/fwouts/sample-antlr4-typescript) - A sample TypeScript app that parses a grammar with ANTLR4.
 - [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script aims to be low resource-intensive, powerful and secure. pH7Builder include
 - [haikyuu/perfect-stack](https://github.com/haikyuu/perfect-stack) - A port of ping crm demo to Imba, node and edgedb using imba and node inertia adapters
