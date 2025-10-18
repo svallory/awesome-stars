@@ -776,7 +776,7 @@
 - [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
 - [supersaiyanmode/PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) - Python API for controlling LG TVs (Web OS)
 - [webosbrew/pages](https://github.com/webosbrew/pages) - 
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [veox/taiga-contrib-ldap-auth-ensky](https://github.com/veox/taiga-contrib-ldap-auth-ensky) - Taiga plugin for LDAP authentication
