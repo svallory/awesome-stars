@@ -2237,7 +2237,7 @@
 - [fluttermapp/flutter-ui-panel-dashboard](https://github.com/fluttermapp/flutter-ui-panel-dashboard) - Flutter Ui Panel Dashboard
 - [Santos-Enoque/flutter-web-admin-dashboard-ecommerce](https://github.com/Santos-Enoque/flutter-web-admin-dashboard-ecommerce) - 
 - [deniscolak/smart-admin-dashboard](https://github.com/deniscolak/smart-admin-dashboard) - Flutter Smart Admin Panel & Dashboard
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [spacedeck/spacedeck-open](https://github.com/spacedeck/spacedeck-open) - Spacedeck, a web based, real time, collaborative whiteboard application with rich media support
 - [ClaaudioRocha/crud-angular](https://github.com/ClaaudioRocha/crud-angular) - 
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
