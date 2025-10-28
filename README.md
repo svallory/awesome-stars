@@ -312,7 +312,7 @@
 
 ## JavaScript 
 
-- [paralleldrive/sudolang.ai](https://github.com/paralleldrive/sudolang.ai) - AIDD SudoLang Library
+- [paralleldrive/sudolang.ai](https://github.com/paralleldrive/sudolang.ai) - The standard framework for AI Driven Development
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
@@ -940,7 +940,7 @@
 - [diragb/pastellify](https://github.com/diragb/pastellify) - Deterministically turn any string into a soft pastel color. 🟣
 - [softarc-consulting/sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
-- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check more at https://nocode-js.com
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
@@ -990,7 +990,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [Sawtaytoes/reactjs-solidjs-bridge](https://github.com/Sawtaytoes/reactjs-solidjs-bridge) - Render Solid.js components in React.js and visa versa.
@@ -1042,7 +1042,7 @@
 - [sujjeee/linknode](https://github.com/sujjeee/linknode) - LinkNode is an open-source tool that helps you generate one link for all your links. 🔗🌐
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [maxakuru/franklin-figma](https://github.com/maxakuru/franklin-figma) - 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
 - [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
