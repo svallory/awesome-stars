@@ -312,7 +312,7 @@
 
 ## JavaScript 
 
-- [paralleldrive/sudolang.ai](https://github.com/paralleldrive/sudolang.ai) - The standard framework for AI Driven Development
+- [paralleldrive/aidd](https://github.com/paralleldrive/aidd) - The standard framework for AI Driven Development
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
@@ -1067,7 +1067,7 @@
 - [Instawork/hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
+- [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [marko-js/run](https://github.com/marko-js/run) - The Marko application framework
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
