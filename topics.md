@@ -234,7 +234,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -246,7 +246,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -271,7 +271,7 @@
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
 ## analytics 
@@ -281,7 +281,7 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [0xytoken/coingecko_pack](https://github.com/0xytoken/coingecko_pack) - My CoinGecko pack allows you to frictionlessly query CoinGecko for any crypto, to empower you to get the best insights and most custom possible
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
@@ -361,6 +361,7 @@
 
 ## automation 
 
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -470,6 +471,7 @@
 
 ## bash 
 
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -530,7 +532,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -539,7 +541,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
@@ -782,7 +784,7 @@
 ## deployment 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 ## design 
@@ -798,6 +800,7 @@
 
 ## developer-tools 
 
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -844,7 +847,7 @@
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [cscart/development-docker](https://github.com/cscart/development-docker) - CS-Cart development environment based on Docker containers
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -1145,7 +1148,7 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [erxes/erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1347,7 +1350,7 @@
 
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 11 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -1415,7 +1418,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1550,7 +1553,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [armbian/config](https://github.com/armbian/config) - Armbian Linux configuration utility
@@ -1590,12 +1593,12 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [upstash/roadmap](https://github.com/upstash/roadmap) - Build and deploy a roadmap voting app for your project/product.
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1673,7 +1676,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -1764,7 +1767,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -1794,12 +1797,13 @@
 
 ## others 
 
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [s1nistr4/beagle](https://github.com/s1nistr4/beagle) - Beagle – robust, elegant, feature rich template engine for Node.js/Bun/Deno
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
-- [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
+- [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
@@ -1895,7 +1899,7 @@
 - [posthtml/posthtml-plugins](https://github.com/posthtml/posthtml-plugins) - PostHTML Plugins Catalog
 - [posthtml/awesome-posthtml](https://github.com/posthtml/awesome-posthtml) - A curated list of awesome things related to PostHTML
 - [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Benchmark the speed of different Zsh plugin managers
-- [LatentMindAI/perzonalized-ai-chatbot](https://github.com/LatentMindAI/perzonalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
+- [kinggongzilla/personalized-ai-chatbot](https://github.com/kinggongzilla/personalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
@@ -2161,7 +2165,6 @@
 - [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
 - [dbanksdesign/nu-disco-vscode-theme](https://github.com/dbanksdesign/nu-disco-vscode-theme) - 
 - [CodelyTV/figma-plugin-skeleton](https://github.com/CodelyTV/figma-plugin-skeleton) - 🪆 Template intended to serve as a starting point if you want to bootstrap a Figma Plugin in TypeScript.
-- [cluesurfback/term.land](https://github.com/cluesurfback/term.land) - Dictionary website made in Link (WIP)
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
 - [headwindz/figx](https://github.com/headwindz/figx) - A comprehensive and reliable figma utilities library
 - [thomas-lowry/figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds) - A small lightweight design system for use in Figma Plugins
@@ -2405,7 +2408,7 @@
 - [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core) - Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 11 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [yiisoft/yii](https://github.com/yiisoft/yii) - Yii PHP Framework 1.1.x
@@ -2441,6 +2444,7 @@
 
 ## productivity 
 
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
@@ -2497,7 +2501,7 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -2678,7 +2682,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
@@ -2688,7 +2692,7 @@
 
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [eclipse-sprotty/sprotty-server](https://github.com/eclipse-sprotty/sprotty-server) - Server implementation for the Sprotty diagramming framework
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -2783,7 +2787,7 @@
 ## statistics 
 
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## storybook 
 
@@ -2797,7 +2801,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
