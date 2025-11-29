@@ -316,7 +316,6 @@
 
 - [paralleldrive/aidd](https://github.com/paralleldrive/aidd) - The standard framework for AI Driven Development
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
 - [shikijs/textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes) - Collection of TextMate grammars and themes in JSON
 - [bpmn-io/diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web.
@@ -710,7 +709,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-- [kinggongzilla/personalized-ai-chatbot](https://github.com/kinggongzilla/personalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
+- [kinggongzilla/whatsapp-ai-clone](https://github.com/kinggongzilla/whatsapp-ai-clone) - Create a personalized AI chatbot based on your chat messages.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
@@ -945,6 +944,7 @@
 - [diragb/pastellify](https://github.com/diragb/pastellify) - Deterministically turn any string into a soft pastel color. 🟣
 - [softarc-consulting/sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
