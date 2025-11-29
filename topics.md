@@ -1953,7 +1953,7 @@
 - [posthtml/posthtml-plugins](https://github.com/posthtml/posthtml-plugins) - PostHTML Plugins Catalog
 - [posthtml/awesome-posthtml](https://github.com/posthtml/awesome-posthtml) - A curated list of awesome things related to PostHTML
 - [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Benchmark the speed of different Zsh plugin managers
-- [kinggongzilla/personalized-ai-chatbot](https://github.com/kinggongzilla/personalized-ai-chatbot) - Create a personalized AI chatbot based on your chat messages.
+- [kinggongzilla/whatsapp-ai-clone](https://github.com/kinggongzilla/whatsapp-ai-clone) - Create a personalized AI chatbot based on your chat messages.
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
