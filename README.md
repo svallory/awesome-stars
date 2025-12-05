@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ANTLR](#antlr)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
@@ -61,10 +60,6 @@
 - [XML](#xml)
 - [Xtend](#xtend)
 
-## ANTLR 
-
-- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
-
 ## Astro 
 
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
@@ -101,6 +96,7 @@
 
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [c272/iro4cli](https://github.com/c272/iro4cli) - An open-source rewrite of Iro, a grammar generator, supporting automatic VSCode & Atom extension generation.
+- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
@@ -171,7 +167,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rodydavis/figma_flutter_plugin](https://github.com/rodydavis/figma_flutter_plugin) - Example of how to use Flutter Web in a Figma Pluigin
 - [waseemdev/flutter_xmllayout_helpers](https://github.com/waseemdev/flutter_xmllayout_helpers) - Helper widgets & classes for XML Layout extension for vscode
@@ -665,7 +661,6 @@
 
 ## PLpgSQL 
 
-- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [usebasejump/basejump](https://github.com/usebasejump/basejump) - Teams, personal accounts, permissions and billing for your Supabase app
 - [usebasejump/supabase-test-helpers](https://github.com/usebasejump/supabase-test-helpers) - Test helpers for pgTAP and Supabase
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
@@ -703,7 +698,7 @@
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -937,6 +932,7 @@
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
 - [jakub-hajduk/figwire](https://github.com/jakub-hajduk/figwire) - Bidirectional IPC communication between UI and core in Figma plugins. Lightweight and typed.
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [SubtleTools/lipgloss-ts](https://github.com/SubtleTools/lipgloss-ts) - A comprehensive TypeScript port of Charm's Lipgloss terminal styling library with 100% API compatibility
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
