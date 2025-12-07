@@ -637,7 +637,7 @@
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [apioo/typeschema](https://github.com/apioo/typeschema) - TypeSchema is a JSON format to describe data models in a language neutral format
-- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) is a Professional & Open Source Social Dating CMS written in PHP 8 🚀 This Social Dating Script aims to be low resource-intensive, powerful and secure. pH7Builder include
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) is a Professional & Open Source Social Dating CMS written in PHP 8. This Social Dating Script aims to be low resource-intensive, powerful, and secure. pH7Builder include
 - [marcelobern/Google-Admin-SDK-Domain](https://github.com/marcelobern/Google-Admin-SDK-Domain) - Change the primary domain of your Google for Work (Google Apps) account using the Google Admin SDK.
 - [theblacksmith/yii-bootstrap](https://github.com/theblacksmith/yii-bootstrap) - This repo is a mirror of https://bitbucket.org/Crisu83/yii-bootstrap. It was setup to be used as a submodule in Yii-Boilerplate (url below)
 - [theblacksmith/yii-boilerplate](https://github.com/theblacksmith/yii-boilerplate) - Yii Framework Boilerplate
@@ -700,7 +700,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
