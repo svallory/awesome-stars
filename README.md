@@ -381,7 +381,6 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cferdinandi/build-tool-boilerplate](https://github.com/cferdinandi/build-tool-boilerplate) - A simple boilerplate for using NPM tasks to build and compile JavaScript, CSS, and image files.
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [NakedJSX/core](https://github.com/NakedJSX/core) - The NakedJSX development server and build tool.
@@ -813,6 +812,7 @@
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [sophiajt/june](https://github.com/sophiajt/june) - 
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -906,7 +906,6 @@
 
 - [imohanvadivel/figblocks](https://github.com/imohanvadivel/figblocks) - An Open-source UI component library for building Figma plugins with svelte.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [CaptainCodeman/svelte-form-helper](https://github.com/CaptainCodeman/svelte-form-helper) - Lightweight helpers for form validation with Svelte
@@ -1042,7 +1041,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
 - [ryonakae/figma-plugin-run-plugin-api](https://github.com/ryonakae/figma-plugin-run-plugin-api) - A Figma plugin that can run the Figma Plugin API
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your architecture (DDD, micro-services, event-driven architectures)
 - [sujjeee/linknode](https://github.com/sujjeee/linknode) - LinkNode is an open-source tool that helps you generate one link for all your links. 🔗🌐
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [maxakuru/franklin-figma](https://github.com/maxakuru/franklin-figma) - 
@@ -1176,6 +1175,7 @@
 - [ComponentDriven/csf](https://github.com/ComponentDriven/csf) - Component Story Format is an open standard for UI component examples based on JavaScript ES6 modules.
 - [matheins/Dorf](https://github.com/matheins/Dorf) - A free and open source form builder
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
