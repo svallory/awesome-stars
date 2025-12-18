@@ -680,7 +680,7 @@
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI   applications
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Stop re-explaining your project to AI every session. Automatic context memory for Claude, VS Code, Cursor, and 13+ AI tools.
 - [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - Model Context Protocol (MCP) server designed to allow AI agents within Cursor to interact with Jupyter Notebook (.ipynb) files
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, 
@@ -924,6 +924,7 @@
 
 ## TypeScript 
 
+- [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow) - SolidJS Port of React/Svelte Flow
 - [bgub/squirrelly](https://github.com/bgub/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [MadAppGang/claude-code](https://github.com/MadAppGang/claude-code) - claude code plugins marketplace
 - [s1nistr4/beagle](https://github.com/s1nistr4/beagle) - Beagle – robust, elegant, feature rich template engine for Node.js/Bun/Deno
