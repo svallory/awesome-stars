@@ -911,6 +911,7 @@
 
 ## documentation 
 
+- [HiDeoo/starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Starlight plugin to generate documentation from TypeScript using TypeDoc
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -3020,6 +3021,7 @@
 
 ## typescript 
 
+- [HiDeoo/starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Starlight plugin to generate documentation from TypeScript using TypeDoc
 - [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow) - SolidJS Port of React/Svelte Flow
 - [bgub/squirrelly](https://github.com/bgub/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
