@@ -115,6 +115,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mongoose](#mongoose)
@@ -728,7 +729,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences.
-- [thassiov/framed-commands](https://github.com/thassiov/framed-commands) - A snippet/cheatsheet application. So you don't have to memorize everything.
+- [thassiov/cmdvault](https://github.com/thassiov/cmdvault) - A snippet/cheatsheet application. So you don't have to memorize everything.
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [final-form/rff-cli-example](https://github.com/final-form/rff-cli-example) - An example of how to use 🏁 React Final Form in a CLI application with Ink
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
@@ -1590,6 +1591,11 @@
 
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 
+## microservices 
+
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your architecture (DDD, micro-services, event-driven architectures)
+- [xogroup/toki](https://github.com/xogroup/toki) - Microservice orchestration engine utilizing a rules engine
+
 ## mobile 
 
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -2335,7 +2341,6 @@
 - [wix-incubator/lerna-script](https://github.com/wix-incubator/lerna-script) - Lerna addon for adding custom tasks
 - [unlight/node-package-starter](https://github.com/unlight/node-package-starter) - Node package starter
 - [vrybas/nvim-config](https://github.com/vrybas/nvim-config) - My NeoVim Configuration
-- [xogroup/toki](https://github.com/xogroup/toki) - Microservice orchestration engine utilizing a rules engine
 - [marcelobern/Google-Admin-SDK-Domain](https://github.com/marcelobern/Google-Admin-SDK-Domain) - Change the primary domain of your Google for Work (Google Apps) account using the Google Admin SDK.
 - [blindpet/MediaServerInstaller](https://github.com/blindpet/MediaServerInstaller) - Automated Home Media Server Installer
 - [hlibco/envstore](https://github.com/hlibco/envstore) - Load casted environment variables or throw if they don't exist
@@ -3009,7 +3014,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
-- [thassiov/framed-commands](https://github.com/thassiov/framed-commands) - A snippet/cheatsheet application. So you don't have to memorize everything.
+- [thassiov/cmdvault](https://github.com/thassiov/cmdvault) - A snippet/cheatsheet application. So you don't have to memorize everything.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -3135,7 +3140,7 @@
 - [denosaurs/denon](https://github.com/denosaurs/denon) - 👀 Monitor any changes in your Deno application and automatically restart.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
-- [thassiov/framed-commands](https://github.com/thassiov/framed-commands) - A snippet/cheatsheet application. So you don't have to memorize everything.
+- [thassiov/cmdvault](https://github.com/thassiov/cmdvault) - A snippet/cheatsheet application. So you don't have to memorize everything.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [CrookedGrin/maximum-override](https://github.com/CrookedGrin/maximum-override) - Figma plugin for comparing nodes and copying/pasting overrides.
