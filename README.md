@@ -253,6 +253,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+- [thassiov/cmdvault](https://github.com/thassiov/cmdvault) - A snippet/cheatsheet application. So you don't have to memorize everything.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1340,7 +1341,6 @@
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
 - [deno-library/progress](https://github.com/deno-library/progress) - ProgressBar in terminal for deno
 - [jpelgrims/terminal](https://github.com/jpelgrims/terminal) - Use the terminal as a canvas
-- [thassiov/framed-commands](https://github.com/thassiov/framed-commands) - A snippet/cheatsheet application. So you don't have to memorize everything.
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
