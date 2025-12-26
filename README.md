@@ -63,7 +63,6 @@
 ## Astro 
 
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## AutoHotkey 
 
@@ -136,6 +135,7 @@
 ## CSS 
 
 - [cva-design/figma-sdk](https://github.com/cva-design/figma-sdk) - An SDK for creating Figma plugins using Svelte
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [CrookedGrin/maximum-override](https://github.com/CrookedGrin/maximum-override) - Figma plugin for comparing nodes and copying/pasting overrides.
 - [kaizau/middleman-template-kaizau](https://github.com/kaizau/middleman-template-kaizau) - A blank middleman template with sensible defaults and helpers. Install in ~/.middleman.
 - [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
