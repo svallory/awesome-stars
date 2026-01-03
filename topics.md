@@ -250,7 +250,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -297,7 +297,7 @@
 
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -861,7 +861,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -982,7 +982,7 @@
 ## english 
 
 - [opencog/link-grammar](https://github.com/opencog/link-grammar) - The CMU Link Grammar natural language parser
-- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with AltGr (Right Alt) dead keys (Windows/Linux)
+- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with enhanced multilingual support (Windows/Linux)
 
 ## es6 
 
@@ -1456,7 +1456,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with AltGr (Right Alt) dead keys (Windows/Linux)
+- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with enhanced multilingual support (Windows/Linux)
 - [barkloaf/US-Reformed-International](https://github.com/barkloaf/US-Reformed-International) - A sensible version of the US-International keyboard layout with AltGr dead keys for Windows (KLC, AHK, or PKL), Mac (Keylayout), and Linux (XKB).
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
@@ -1505,7 +1505,7 @@
 
 ## localization 
 
-- [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+- [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 ## low-code 
 
@@ -1735,6 +1735,7 @@
 
 ## nodejs 
 
+- [edge-js/edge](https://github.com/edge-js/edge) - Node.js template engine with a breath of fresh air
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [bgub/squirrelly](https://github.com/bgub/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
@@ -1888,7 +1889,7 @@
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -1902,7 +1903,7 @@
 - [minhio/devpod-provider-multipass](https://github.com/minhio/devpod-provider-multipass) - Canonical Multipass provider for DevPod
 - [shikijs/textmate-grammars-themes](https://github.com/shikijs/textmate-grammars-themes) - Collection of TextMate grammars and themes in JSON
 - [zikaari/monaco-editor-textmate](https://github.com/zikaari/monaco-editor-textmate) - 
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [eclipse-oct/open-collaboration-tools](https://github.com/eclipse-oct/open-collaboration-tools) - Open Collaboration Tools: live-sharing solution for Eclipse Theia, VS Code and other editors and IDEs
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
@@ -1948,7 +1949,7 @@
 - [43081j/picoquery](https://github.com/43081j/picoquery) - A small library for parsing and serializing query strings
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
-- [bicyclesystems/rfrncs.design](https://github.com/bicyclesystems/rfrncs.design) - 
+- [bicyclesystems/rfrncs](https://github.com/bicyclesystems/rfrncs) - 
 - [Synopsis/whisper_ane](https://github.com/Synopsis/whisper_ane) - 
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -2572,7 +2573,7 @@
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
@@ -3279,7 +3280,7 @@
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with AltGr (Right Alt) dead keys (Windows/Linux)
+- [pieter-degroote/UltimateKEYS](https://github.com/pieter-degroote/UltimateKEYS) - International US QWERTY keyboard layout with enhanced multilingual support (Windows/Linux)
 - [barkloaf/US-Reformed-International](https://github.com/barkloaf/US-Reformed-International) - A sensible version of the US-International keyboard layout with AltGr dead keys for Windows (KLC, AHK, or PKL), Mac (Keylayout), and Linux (XKB).
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
