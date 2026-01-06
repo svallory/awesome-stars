@@ -87,7 +87,6 @@
 - [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [opencog/link-grammar](https://github.com/opencog/link-grammar) - The CMU Link Grammar natural language parser
-- [nanowell/Brainstorm-science](https://github.com/nanowell/Brainstorm-science) - Sample from uniform distribution towards automation of math.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [kyleterry/keyboard-layouts](https://github.com/kyleterry/keyboard-layouts) - 
 - [pavlepiramida/elan_i2c_dkms](https://github.com/pavlepiramida/elan_i2c_dkms) - Updated kernel module to fix touchpad detection on the Ideapad S145.
