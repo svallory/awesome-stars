@@ -1892,6 +1892,7 @@
 
 ## others 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [bgub/ts-base](https://github.com/bgub/ts-base) - Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.
 - [ossfriendly/open-source-supporters](https://github.com/ossfriendly/open-source-supporters) - A list of companies that sponsor open source software
 - [MadAppGang/claude-code](https://github.com/MadAppGang/claude-code) - claude code plugins marketplace
