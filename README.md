@@ -665,7 +665,6 @@
 
 - [usebasejump/basejump](https://github.com/usebasejump/basejump) - Teams, personal accounts, permissions and billing for your Supabase app
 - [usebasejump/supabase-test-helpers](https://github.com/usebasejump/supabase-test-helpers) - Test helpers for pgTAP and Supabase
-- [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
 
 ## Perl 
 
@@ -699,7 +698,7 @@
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for Agent Engineering: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
@@ -1172,6 +1171,7 @@
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [svartajs/svarta](https://github.com/svartajs/svarta) - Typescript REST API framework
 - [silentworks/waiting-list](https://github.com/silentworks/waiting-list) - A Waiting list application built on Supabase
+- [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
 - [erxes/erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - Design system that was used by @modulz. It’s now archived and superceded by Radix Themes. (See https://github.com/radix-ui/themes)
@@ -1196,7 +1196,7 @@
 - [penpot/penpot-exporter-figma-plugin](https://github.com/penpot/penpot-exporter-figma-plugin) - Penpot exporter Figma plugin
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [Tailscan/tails-devtools](https://github.com/Tailscan/tails-devtools) - Tailwind CSS Developer Tools
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
