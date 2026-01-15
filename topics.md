@@ -391,7 +391,7 @@
 
 ## automation 
 
-- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -501,7 +501,7 @@
 
 ## bash 
 
-- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -857,7 +857,7 @@
 ## developer-tools 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -2543,7 +2543,7 @@
 ## productivity 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
 - [denosaurabh/space](https://github.com/denosaurabh/space) - Productivity & Management app
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
