@@ -167,7 +167,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rodydavis/figma_flutter_plugin](https://github.com/rodydavis/figma_flutter_plugin) - Example of how to use Flutter Web in a Figma Pluigin
 - [waseemdev/flutter_xmllayout_helpers](https://github.com/waseemdev/flutter_xmllayout_helpers) - Helper widgets & classes for XML Layout extension for vscode
@@ -925,6 +925,7 @@
 
 ## TypeScript 
 
+- [burakorkmez/expo-ecommerce](https://github.com/burakorkmez/expo-ecommerce) - 
 - [edge-js/edge](https://github.com/edge-js/edge) - Node.js template engine with a breath of fresh air
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [bgub/ts-base](https://github.com/bgub/ts-base) - Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.
