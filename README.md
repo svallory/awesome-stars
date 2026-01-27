@@ -221,7 +221,7 @@
 - [containers/podman-tui](https://github.com/containers/podman-tui) - Podman Terminal UI
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [paralleldrive/aidd](https://github.com/paralleldrive/aidd) - The standard framework for AI Driven Development
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
@@ -1006,7 +1007,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
