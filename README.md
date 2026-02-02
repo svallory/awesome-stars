@@ -221,7 +221,7 @@
 - [containers/podman-tui](https://github.com/containers/podman-tui) - Podman Terminal UI
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -615,6 +615,7 @@
 - [kikito/us-4-es.keylayout](https://github.com/kikito/us-4-es.keylayout) - Mac keyboard layout for users of U.S. layout who need to write Spanish characters occasionally.
 - [mathiasbynens/custom.keylayout](https://github.com/mathiasbynens/custom.keylayout) - Custom QWERTY/AZERTY .keylayout files for use with Apple keyboards
 - [ContextMapper/context-mapper-examples](https://github.com/ContextMapper/context-mapper-examples) - ContextMapper DSL: Examples
+- [larsbaunwall/DomainLang](https://github.com/larsbaunwall/DomainLang) - A DSL for Domain-Driven Design
 - [githubnext/githubnext](https://github.com/githubnext/githubnext) - A public point of contact for GitHub Next
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
 - [amilajack/awesome-node-cli-libraries](https://github.com/amilajack/awesome-node-cli-libraries) - A list of libraries and infrastructure for building CLI's with node
@@ -677,6 +678,7 @@
 
 ## Python 
 
+- [SAFE-MCP/safe-mcp](https://github.com/SAFE-MCP/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
@@ -1311,7 +1313,6 @@
 - [amaro0/ts-arch-unit](https://github.com/amaro0/ts-arch-unit) - Unit test your typescript architecture
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [MathiasSJacobsen/HotDrink-DSL](https://github.com/MathiasSJacobsen/HotDrink-DSL) - Part of mye master thesis
-- [larsbaunwall/DomainLang](https://github.com/larsbaunwall/DomainLang) - A DSL for Domain-Driven Design
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
