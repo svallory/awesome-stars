@@ -1058,7 +1058,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
 - [ryonakae/figma-plugin-run-plugin-api](https://github.com/ryonakae/figma-plugin-run-plugin-api) - A Figma plugin that can run the Figma Plugin API
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your architecture (DDD, micro-services, event-driven architectures)
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
 - [sujjeee/linknode](https://github.com/sujjeee/linknode) - LinkNode is an open-source tool that helps you generate one link for all your links. 🔗🌐
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [maxakuru/franklin-figma](https://github.com/maxakuru/franklin-figma) - 
@@ -1339,7 +1339,7 @@
 - [acathur/cmd](https://github.com/acathur/cmd) - Commander.js (command-line interfaces) for Deno.
 - [siokas/denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy
 - [akunchen/deno-prompt](https://github.com/akunchen/deno-prompt) - 
-- [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
+- [c4spar/cliffy](https://github.com/c4spar/cliffy) - A TypeScript-first, runtime-agnostic command-line toolkit for building complex   CLIs — featuring a command framework, argument parser, interactive prompts,   tables, ANSI utilities, and more.
 - [denosaurs/denon](https://github.com/denosaurs/denon) - 👀 Monitor any changes in your Deno application and automatically restart.
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
