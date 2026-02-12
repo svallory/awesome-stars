@@ -682,7 +682,7 @@
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for Claude Code agents through simple hook event tracking.
 - [buckster123/NeoCortex](https://github.com/buckster123/NeoCortex) - AI Tool -  A product of The Village in Apex Aurum
-- [SAFE-MCP/safe-mcp](https://github.com/SAFE-MCP/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
+- [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
@@ -1203,7 +1203,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [perrysmotors/figma-variant-organiser](https://github.com/perrysmotors/figma-variant-organiser) - Figma plugin for automatically arranging variants in a grid and generating property labels
 - [penpot/penpot-exporter-figma-plugin](https://github.com/penpot/penpot-exporter-figma-plugin) - Penpot exporter Figma plugin
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [Tailscan/tails-devtools](https://github.com/Tailscan/tails-devtools) - Tailwind CSS Developer Tools
