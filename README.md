@@ -684,7 +684,7 @@
 - [buckster123/NeoCortex](https://github.com/buckster123/NeoCortex) - AI Tool -  A product of The Village in Apex Aurum
 - [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Stop re-explaining your project to AI every session. Automatic context memory for Claude, VS Code, Cursor, and 13+ AI tools.
