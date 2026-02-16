@@ -299,7 +299,7 @@
 
 ## ai-agents 
 
-- [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
@@ -2585,7 +2585,7 @@
 
 ## prompt-engineering 
 
-- [danielmeppiel/apm](https://github.com/danielmeppiel/apm) - Agent Package Manager
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [citiususc/smarty-gpt](https://github.com/citiususc/smarty-gpt) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
