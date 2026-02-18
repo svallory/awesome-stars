@@ -932,6 +932,7 @@
 
 ## TypeScript 
 
+- [jstxn/bebop](https://github.com/jstxn/bebop) - 
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [burakorkmez/expo-ecommerce](https://github.com/burakorkmez/expo-ecommerce) - 
@@ -991,7 +992,7 @@
 - [43081j/picoquery](https://github.com/43081j/picoquery) - A small library for parsing and serializing query strings
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
