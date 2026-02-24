@@ -129,6 +129,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [audo-ai/magic-mic](https://github.com/audo-ai/magic-mic) - Open Source Noise Cancellation App for Virtual Meetings
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [gambitproject/gambit](https://github.com/gambitproject/gambit) - Gambit: The package for computation in game theory
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
@@ -800,7 +801,6 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [rackspace-cookbooks/mariadb](https://github.com/rackspace-cookbooks/mariadb) - 
 - [brunofrank/moip-transparente](https://github.com/brunofrank/moip-transparente) - Integração do MOIP com checkout transparente.
@@ -975,7 +975,7 @@
 - [lerte/zroker](https://github.com/lerte/zroker) - 👻zrok gui client
 - [khalidx/runbook](https://github.com/khalidx/runbook) - Executable markdown documents that you can run, template, and share!
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [webdriverio/bx](https://github.com/webdriverio/bx) - Command line tool to run JavaScript, TypeScript or HTML files in the browser.
