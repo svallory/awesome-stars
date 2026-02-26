@@ -2504,6 +2504,7 @@
 
 ## package-manager 
 
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 
 ## parsing 
