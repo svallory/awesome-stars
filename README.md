@@ -62,6 +62,7 @@
 
 ## Astro 
 
+- [themefisher/dockit-astro](https://github.com/themefisher/dockit-astro) - 🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
@@ -1012,7 +1013,7 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [unjs/template](https://github.com/unjs/template) - 📋 UnJS Project Starter Template
-- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
+- [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [Sawtaytoes/reactjs-solidjs-bridge](https://github.com/Sawtaytoes/reactjs-solidjs-bridge) - Render Solid.js components in React.js and visa versa.
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
@@ -1026,7 +1027,7 @@
 - [mpeg/marko-cloudflare-vite-hono](https://github.com/mpeg/marko-cloudflare-vite-hono) - 
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 - [permitio/permit-node](https://github.com/permitio/permit-node) - Node.js SDK for Permit.io: Plug & Play Application Level Authorization
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [kpolley/GitChat](https://github.com/kpolley/GitChat) - Chat with your git repo
