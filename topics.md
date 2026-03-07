@@ -1898,6 +1898,7 @@
 
 ## others 
 
+- [kyutai-labs/unmute](https://github.com/kyutai-labs/unmute) - Make text LLMs listen and speak
 - [jstxn/bebop](https://github.com/jstxn/bebop) - 
 - [wweggplant/web-design-system-extract](https://github.com/wweggplant/web-design-system-extract) - Reverse engineer design system + UX interaction model
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
