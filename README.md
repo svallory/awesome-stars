@@ -689,6 +689,7 @@
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [mamertofabian/elevenlabs-mcp-server](https://github.com/mamertofabian/elevenlabs-mcp-server) - 
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - Model Context Protocol (MCP) server designed to allow AI agents within Cursor to interact with Jupyter Notebook (.ipynb) files
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, 
