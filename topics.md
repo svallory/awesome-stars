@@ -1609,7 +1609,7 @@
 ## mcp 
 
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
-- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A comprehensive local MCP server for Figma
+- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A comprehensive local MCP server for Figma. Connect Figma with the Gemini CLI, Cursor, and Claude Desktop
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [blacktop/mcp-tts](https://github.com/blacktop/mcp-tts) - MCP Server for Text to Speech
