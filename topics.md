@@ -55,6 +55,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -896,6 +897,12 @@
 
 - [mornir/habitica-bot](https://github.com/mornir/habitica-bot) - ⚒ A Cloudflare Worker that makes use of the Habitica API and Discord Webhooks
 
+## distributed-systems 
+
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
+- [node-ts/bus](https://github.com/node-ts/bus) - A typescript based enterprise service bus framework based on enterprise integration patterns
+- [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
+
 ## django 
 
 - [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker) - The day-to-day front-end to the IETF database for people who work on IETF standards.
@@ -1220,7 +1227,6 @@
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-- [figma/plugin-resources](https://github.com/figma/plugin-resources) - A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [erxes/erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.
@@ -2185,6 +2191,7 @@
 - [rangle/radius](https://github.com/rangle/radius) - A design system accelerator
 - [rangle/radius-angular](https://github.com/rangle/radius-angular) - 
 - [rangle/radius-workspace](https://github.com/rangle/radius-workspace) - Main workspace for the new version of Radius
+- [figma/community-resources](https://github.com/figma/community-resources) - A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
