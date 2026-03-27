@@ -209,7 +209,6 @@
 - [blacktop/mcp-tts](https://github.com/blacktop/mcp-tts) - MCP Server for Text to Speech
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
-- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [mritd/gitflow-toolkit](https://github.com/mritd/gitflow-toolkit) - A simple toolkit for GitFlow.
@@ -597,7 +596,7 @@
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [ueberdosis/awesome-tiptap](https://github.com/ueberdosis/awesome-tiptap) - ⚡ Delightful Tiptap packages and resources
 - [mrstev3n/figma-widgets-on-github](https://github.com/mrstev3n/figma-widgets-on-github) - A list of Figma widgets and related resources that have been shared on Github.
-- [figma/plugin-resources](https://github.com/figma/plugin-resources) - A collection of open source plugins, widgets and other resources for Figma + FigJam that have been shared on GitHub.
+- [figma/community-resources](https://github.com/figma/community-resources) - A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [tembo/tembo](https://github.com/tembo/tembo) - 
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -692,6 +691,7 @@
 - [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - Model Context Protocol (MCP) server designed to allow AI agents within Cursor to interact with Jupyter Notebook (.ipynb) files
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, 
 - [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
