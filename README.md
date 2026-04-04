@@ -401,6 +401,7 @@
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [webdiscus/pug-plugin](https://github.com/webdiscus/pug-plugin) - Renders Pug template to HTML or template function. Resolves source files of scripts, styles, images in Pug . Uses Pug template as entry point.
 - [slm-lang/slm](https://github.com/slm-lang/slm) - Slim, Jade like template engine for node
 - [thomas-lowry/figma-plugin-ds-svelte](https://github.com/thomas-lowry/figma-plugin-ds-svelte) - Figma Plugin DS components made with Svelte
@@ -1259,7 +1260,6 @@
 - [alexjdean/type-scriptor](https://github.com/alexjdean/type-scriptor) - Write better JavaScript and TypeScript code, using GPT 4.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [XpressAI/xircuits](https://github.com/XpressAI/xircuits) - Simple visual programming environment for jupyterlab
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [ericciarla/babyagijs](https://github.com/ericciarla/babyagijs) - AI-powered task management system in Javascript
 - [rschwabco/babyagi-langchain-ts](https://github.com/rschwabco/babyagi-langchain-ts) - 
 - [pinecone-io/babyagi-langchain-ts](https://github.com/pinecone-io/babyagi-langchain-ts) - A Typescript implementation of BabyAGI with LangChain
