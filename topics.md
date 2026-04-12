@@ -2410,7 +2410,6 @@
 - [Izhaki/mono.ts](https://github.com/Izhaki/mono.ts) - A minimal example of a typescript mono repo with pre-build support (tests, vscode).
 - [wix-incubator/lerna-script](https://github.com/wix-incubator/lerna-script) - Lerna addon for adding custom tasks
 - [unlight/node-package-starter](https://github.com/unlight/node-package-starter) - Node package starter
-- [vrybas/nvim-config](https://github.com/vrybas/nvim-config) - My NeoVim Configuration
 - [marcelobern/Google-Admin-SDK-Domain](https://github.com/marcelobern/Google-Admin-SDK-Domain) - Change the primary domain of your Google for Work (Google Apps) account using the Google Admin SDK.
 - [blindpet/MediaServerInstaller](https://github.com/blindpet/MediaServerInstaller) - Automated Home Media Server Installer
 - [hlibco/envstore](https://github.com/hlibco/envstore) - Load casted environment variables or throw if they don't exist
