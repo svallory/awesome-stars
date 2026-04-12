@@ -684,6 +684,7 @@
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for Claude Code agents through simple hook event tracking.
 - [buckster123/NeoCortex](https://github.com/buckster123/NeoCortex) - AI Tool -  A product of The Village in Apex Aurum
 - [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
+- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [ILikeAI/AlwaysReddy](https://github.com/ILikeAI/AlwaysReddy) - AlwaysReddy is a LLM voice assistant that is always just a hotkey away.
@@ -862,7 +863,6 @@
 ## Shell 
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [ChanMeng666/claude-code-audio-hooks](https://github.com/ChanMeng666/claude-code-audio-hooks) - 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
@@ -1399,7 +1399,6 @@
 
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [vrybas/nvim-config](https://github.com/vrybas/nvim-config) - My NeoVim Configuration
 
 ## Vue 
 
