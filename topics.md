@@ -2047,7 +2047,6 @@
 - [43081j/picoquery](https://github.com/43081j/picoquery) - A small library for parsing and serializing query strings
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [mattpocock/bunchee](https://github.com/mattpocock/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
-- [bicyclesystems/rfrncs](https://github.com/bicyclesystems/rfrncs) - 
 - [Synopsis/whisper_ane](https://github.com/Synopsis/whisper_ane) - 
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
