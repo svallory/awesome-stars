@@ -269,7 +269,6 @@
 ## HTML 
 
 - [handprompted/handprompted-monorepo](https://github.com/handprompted/handprompted-monorepo) - 
-- [bicyclesystems/rfrncs](https://github.com/bicyclesystems/rfrncs) - 
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [juliankrispel/bishbosh](https://github.com/juliankrispel/bishbosh) - Proposal - BishBosh - A domain specific language for writing command line interfaces
 - [jyoungblood/pocketdocs](https://github.com/jyoungblood/pocketdocs) - Attractive template for writing single-page documentation with semantic HTML
