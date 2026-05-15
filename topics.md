@@ -545,7 +545,7 @@
 
 - [ChanMeng666/echook](https://github.com/ChanMeng666/echook) - 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. Tell your AI agent to install — natu
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
@@ -664,7 +664,7 @@
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -992,7 +992,7 @@
 
 ## dotfiles 
 
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
@@ -1510,7 +1510,7 @@
 ## linux 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -1614,7 +1614,7 @@
 ## macos 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -2916,7 +2916,7 @@
 
 ## shell 
 
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
@@ -3083,7 +3083,7 @@
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -3124,7 +3124,7 @@
 ## tui 
 
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -3423,7 +3423,7 @@
 ## zsh 
 
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
