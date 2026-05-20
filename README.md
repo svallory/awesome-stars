@@ -286,6 +286,7 @@
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [parkerhendo/figma-interface-language](https://github.com/parkerhendo/figma-interface-language) - A simple DSL for describing interfaces that can be compiled to build a Figma mockup using both existing and new components.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [mojotech/social-builder](https://github.com/mojotech/social-builder) - 
@@ -904,7 +905,6 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [rauchg/spot](https://github.com/rauchg/spot) - Tiny file search utility (bash)
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
-- [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [zulu-zsh/zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH
 - [blindpet/MediaServerInstaller](https://github.com/blindpet/MediaServerInstaller) - Automated Home Media Server Installer
 - [armbian/config](https://github.com/armbian/config) - Armbian Linux configuration utility
