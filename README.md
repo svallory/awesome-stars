@@ -537,6 +537,7 @@
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [aycanogut/front-end-resources](https://github.com/aycanogut/front-end-resources) - a repo for awesome front-end resources
 
 ## Makefile 
@@ -687,6 +688,7 @@
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for Claude Code agents through simple hook event tracking.
 - [buckster123/NeoCortex](https://github.com/buckster123/NeoCortex) - AI Tool -  A product of The Village in Apex Aurum
 - [safe-agentic-framework/safe-mcp](https://github.com/safe-agentic-framework/safe-mcp) - SAFE-MCP is a comprehensive security framework for documenting and mitigating threats in the AI Agent ecosystem.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ChanMeng666/echook](https://github.com/ChanMeng666/echook) - 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. Tell your AI agent to install — natu
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -867,7 +869,6 @@
 
 ## Shell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
@@ -1166,7 +1167,6 @@
 - [TypeFox/djinject](https://github.com/TypeFox/djinject) - Dependency injection done right.
 - [recombX/langium-utils](https://github.com/recombX/langium-utils) - 
 - [TypeFox/langium-ui-framework](https://github.com/TypeFox/langium-ui-framework) - A DSL for generating user interfaces, built with Langium
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [liaobinbin/fig-to-json](https://github.com/liaobinbin/fig-to-json) - figma .fig file to json data
 - [yagudaev/figma-to-json](https://github.com/yagudaev/figma-to-json) - 💾 Read/Write Figma Files as JSON
 - [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) 
