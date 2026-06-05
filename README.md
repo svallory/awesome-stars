@@ -218,7 +218,6 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
-- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [containers/podman-tui](https://github.com/containers/podman-tui) - Podman Terminal UI
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -825,6 +824,7 @@
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [g33kex/ServerWitch](https://github.com/g33kex/ServerWitch) - Grant a custom GPT shell access to your machine in a single command
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [sophiajt/june](https://github.com/sophiajt/june) - 
