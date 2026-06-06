@@ -352,7 +352,7 @@
 - [alexadam/printable-mockups](https://github.com/alexadam/printable-mockups) - Create printable UI mockups & wireframes templates
 - [kashifulhaque/product-mockup-node-python](https://github.com/kashifulhaque/product-mockup-node-python) - Create near perfect product mockups using ImageMagick, Node.js and Python
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [henry-luo/mark](https://github.com/henry-luo/mark) - A simple and unified notation for both object and markup data.
 - [henry-luo/mark-template](https://github.com/henry-luo/mark-template) - JS template engine inspired by JSX and XSLT (beta)
 - [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
