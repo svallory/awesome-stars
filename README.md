@@ -732,7 +732,7 @@
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 - [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
 - [bdqnghi/ast-node-encoding](https://github.com/bdqnghi/ast-node-encoding) - A tool to convert nodes in an Abstract Syntax Tree into vector embeddings
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [erik-megarad/beebot](https://github.com/erik-megarad/beebot) - An Autonomous AI Agent that works
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [facebookresearch/textlesslib](https://github.com/facebookresearch/textlesslib) - Library for Textless Spoken Language Processing
