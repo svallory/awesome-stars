@@ -1581,7 +1581,7 @@
 
 ## localization 
 
-- [opral/inlang](https://github.com/opral/inlang) - The open format TMS (translation management system)
+- [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
 
 ## low-code 
 
