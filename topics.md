@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -246,6 +247,11 @@
 - [alexdphan/babyagi-chroma-agent](https://github.com/alexdphan/babyagi-chroma-agent) - AI-powered task management system template w/ free storage use
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
+
+## agent-skills 
+
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [figma/community-resources](https://github.com/figma/community-resources) - A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.
 
 ## agents 
 
@@ -1996,7 +2002,6 @@
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
@@ -2246,7 +2251,6 @@
 - [rangle/radius](https://github.com/rangle/radius) - A design system accelerator
 - [rangle/radius-angular](https://github.com/rangle/radius-angular) - 
 - [rangle/radius-workspace](https://github.com/rangle/radius-workspace) - Main workspace for the new version of Radius
-- [figma/community-resources](https://github.com/figma/community-resources) - A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
