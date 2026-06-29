@@ -2141,7 +2141,7 @@
 - [suryatmodulus/sveltosis](https://github.com/suryatmodulus/sveltosis) - A Svelte parser that compiles to Mitosis JSON, allowing you to write Svelte components once and compile to every framework.
 - [salesforce-ux/theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, and Aube.
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, Nub, Aube.
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
