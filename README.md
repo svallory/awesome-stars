@@ -145,7 +145,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [phillord/tawny-simple](https://github.com/phillord/tawny-simple) - Simple Reasoning Examples, using tawny-owl
 - [davelambert/clojure-powerloom](https://github.com/davelambert/clojure-powerloom) - A Clojure wrapper for the Java version of the PowerLoom knowledge representation and reasoning system
 - [drlivingston/kr](https://github.com/drlivingston/kr) - Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame
