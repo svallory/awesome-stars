@@ -739,7 +739,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 
 ## cloud 
@@ -910,7 +910,7 @@
 - [braposo/figma-graphql](https://github.com/braposo/figma-graphql) - The reimagined Figma API (super)powered by GraphQL
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [ecklf/tailwindcss-figma-kit](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [JB1905/react-figma-ui](https://github.com/JB1905/react-figma-ui) - 🏗️ React implementation for figma-plugin-ds
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 - [aycanogut/front-end-resources](https://github.com/aycanogut/front-end-resources) - a repo for awesome front-end resources
@@ -3308,7 +3308,7 @@
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [JB1905/react-figma-ui](https://github.com/JB1905/react-figma-ui) - 🏗️ React implementation for figma-plugin-ds
