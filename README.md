@@ -1187,7 +1187,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [svartajs/svarta](https://github.com/svartajs/svarta) - Typescript REST API framework
 - [silentworks/waiting-list](https://github.com/silentworks/waiting-list) - A Waiting list application built on Supabase
