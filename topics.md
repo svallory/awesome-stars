@@ -2700,7 +2700,7 @@
 - [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
+- [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 - [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - Converts text to speech in realtime
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
