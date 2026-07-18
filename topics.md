@@ -1197,7 +1197,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -1227,7 +1227,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [chip/pathos](https://github.com/chip/pathos) - pathos - CLI for editing a PATH env variable
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [MichaelThessel/gomainr](https://github.com/MichaelThessel/gomainr) - Terminal cli app that checks the availability of domains for different configurations of keywords.
@@ -1564,7 +1564,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [rizerphe/local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling) - A tool for generating function arguments and choosing what function to call with local LLMs
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
