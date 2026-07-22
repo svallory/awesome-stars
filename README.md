@@ -813,6 +813,7 @@
 
 ## Rust 
 
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Cognilogical/NeuroPlasticity](https://github.com/Cognilogical/NeuroPlasticity) - Self-Reinforced Testing Framework (SRTF) for AI Agents.
 - [vrtbl/passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
@@ -867,6 +868,7 @@
 
 ## Shell 
 
+- [fcavalcantirj/claude-code-eyes](https://github.com/fcavalcantirj/claude-code-eyes) - Give Claude Code eyes 👁️ — a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, check wiring before power-on, and catch bugs that live on the glass, not the logs.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [amaya382/zsh-fzf-widgets](https://github.com/amaya382/zsh-fzf-widgets) - :nut_and_bolt: Well-unified zsh widgets for fzf
@@ -936,6 +938,7 @@
 
 ## TypeScript 
 
+- [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
 - [fcavalcantirj/amcp-protocol](https://github.com/fcavalcantirj/amcp-protocol) - 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
@@ -947,7 +950,7 @@
 - [edge-js/edge](https://github.com/edge-js/edge) - Node.js template engine with a breath of fresh air
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [bgub/ts-base](https://github.com/bgub/ts-base) - Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.
-- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A comprehensive local MCP server for Figma. Connect Figma with the Gemini CLI, Cursor, and Claude Desktop
+- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A comprehensive local MCP server for Figma
 - [HiDeoo/starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Starlight plugin to generate documentation from TypeScript using TypeDoc
 - [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow) - SolidJS Port of React/Svelte Flow
 - [bgub/squirrelly](https://github.com/bgub/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
