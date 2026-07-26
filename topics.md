@@ -2694,7 +2694,7 @@
 - [vrtbl/passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code.
 - [cognate-lang/cognate](https://github.com/cognate-lang/cognate) - A human readable quasi-concatenative programming language
 - [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) - The list of awesome programming languages that you might be interested in.
-- [cluesurf/tree](https://github.com/cluesurf/tree) - A Modeling Notation ꕤ
+- [cluesurf/tree](https://github.com/cluesurf/tree) - A flexible modeling notation Δ
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
 
