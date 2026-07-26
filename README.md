@@ -1262,7 +1262,7 @@
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 - [tiltshift/figmint](https://github.com/tiltshift/figmint) - sync Figma styles to JS
 - [codeque-co/codeque](https://github.com/codeque-co/codeque) - Find and lint complex code patterns effortlessly
-- [cluesurf/tree](https://github.com/cluesurf/tree) - A Modeling Notation ꕤ
+- [cluesurf/tree](https://github.com/cluesurf/tree) - A flexible modeling notation Δ
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [enio-ireland/enio](https://github.com/enio-ireland/enio) - A hub for great inventions built by Enio.
 - [alexjdean/type-scriptor](https://github.com/alexjdean/type-scriptor) - Write better JavaScript and TypeScript code, using GPT 4.
