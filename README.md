@@ -164,7 +164,7 @@
 
 ## D2 
 
-- [terrastruct/d2-docs](https://github.com/terrastruct/d2-docs) - Language documentation and blog for D2.
+- [d2lang/d2-docs](https://github.com/d2lang/d2-docs) - Language documentation and blog for D2.
 
 ## Dart 
 
@@ -940,6 +940,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
 - [fcavalcantirj/amcp-protocol](https://github.com/fcavalcantirj/amcp-protocol) - 
