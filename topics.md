@@ -79,6 +79,7 @@
 - [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [flutter](#flutter)
@@ -255,6 +256,8 @@
 
 ## agent-skills 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [fcavalcantirj/claude-code-eyes](https://github.com/fcavalcantirj/claude-code-eyes) - Give Claude Code eyes 👁️ — a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, check wiring before power-on, and catch bugs that live on the glass, not the logs.
 - [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
@@ -263,6 +266,7 @@
 
 ## agents 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [paralleldrive/aidd](https://github.com/paralleldrive/aidd) - The standard framework for AI Driven Development
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
@@ -283,6 +287,7 @@
 
 ## ai 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Cognilogical/NeuroPlasticity](https://github.com/Cognilogical/NeuroPlasticity) - Self-Reinforced Testing Framework (SRTF) for AI Agents.
@@ -331,7 +336,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -348,6 +353,8 @@
 
 ## ai-agents 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [Cognilogical/NeuroPlasticity](https://github.com/Cognilogical/NeuroPlasticity) - Self-Reinforced Testing Framework (SRTF) for AI Agents.
@@ -451,6 +458,7 @@
 
 ## automation 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [ChanMeng666/echook](https://github.com/ChanMeng666/echook) - 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. Tell your AI agent to install — natu
@@ -469,6 +477,7 @@
 
 ## awesome 
 
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
@@ -503,6 +512,7 @@
 
 ## awesome-list 
 
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
@@ -666,7 +676,7 @@
 - [pd4d10/console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [MusabShakeel576/quickfix.ai](https://github.com/MusabShakeel576/quickfix.ai) - ChatGPT + Chrome Find tool = Quickfix AI. Not a developer? Join the waitlist for cloud-based version 👇.
 
 ## claude 
@@ -685,6 +695,7 @@
 
 ## claude-code 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) - Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a linked device.
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [fcavalcantirj/claude-code-eyes](https://github.com/fcavalcantirj/claude-code-eyes) - Give Claude Code eyes 👁️ — a camera skill so it can SEE real hardware, displays and wiring: verify a rendered panel, check wiring before power-on, and catch bugs that live on the glass, not the logs.
@@ -808,7 +819,7 @@
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
-- [unix/func](https://github.com/unix/func) - Tiny typed CLI framework
+- [unix/func](https://github.com/unix/func) - Build CLIs like TypeScript applications.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -956,6 +967,7 @@
 
 ## developer-tools 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) - Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a linked device.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -969,7 +981,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
@@ -1086,6 +1098,7 @@
 
 ## embedded 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -1127,6 +1140,10 @@
 - [goofychris/art-template](https://github.com/goofychris/art-template) - High performance JavaScript templating engine
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+
+## fastapi 
+
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 
 ## finance 
 
@@ -1588,6 +1605,7 @@
 
 ## llm 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
@@ -1724,6 +1742,7 @@
 
 ## mcp 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) - Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a linked device.
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.
@@ -1991,6 +2010,8 @@
 
 ## openai 
 
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -2030,6 +2051,7 @@
 
 ## others 
 
+- [TokenRollAI/acplugin](https://github.com/TokenRollAI/acplugin) - Convert Claude Code plugins to Codex, OpenCode, and Cursor formats
 - [jstxn/rein](https://github.com/jstxn/rein) - REIN is a lightweight and hands-off harness for stricter, more explicit agentic coding workflows. This is an evolution of https://github.com/jstxn/FEAR.md
 - [fcavalcantirj/amcp-protocol](https://github.com/fcavalcantirj/amcp-protocol) - 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -2716,6 +2738,7 @@
 
 ## prompt-engineering 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [citiususc/smarty-gpt](https://github.com/citiususc/smarty-gpt) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
@@ -2729,11 +2752,12 @@
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## python 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [adarshxs/TokenTally](https://github.com/adarshxs/TokenTally) - Estimate Your LLM's Token Toll Across Various Platforms and Configurations
@@ -2779,6 +2803,8 @@
 
 ## rag 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
@@ -3215,6 +3241,7 @@
 
 ## typescript 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.
