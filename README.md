@@ -642,7 +642,7 @@
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [apioo/typeschema](https://github.com/apioo/typeschema) - TypeSchema is a JSON format to describe data models in a language neutral format
-- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - 😻 pH7Builder (formerly pH7CMS) is a Professional & Open Source Social Dating CMS written in PHP 8. This Social Dating Script aims to be low resource-intensive, powerful, and secure. pH7Builder include
+- [pH7Software/pH7-Social-Dating-CMS](https://github.com/pH7Software/pH7-Social-Dating-CMS) - Self-hosted, open-source PHP 8.2+ software for building white-label dating sites, matchmaking communities, and social networks. Own your code, hosting, database, and member data.
 - [marcelobern/Google-Admin-SDK-Domain](https://github.com/marcelobern/Google-Admin-SDK-Domain) - Change the primary domain of your Google for Work (Google Apps) account using the Google Admin SDK.
 - [theblacksmith/yii-bootstrap](https://github.com/theblacksmith/yii-bootstrap) - This repo is a mirror of https://bitbucket.org/Crisu83/yii-bootstrap. It was setup to be used as a submodule in Yii-Boilerplate (url below)
 - [theblacksmith/yii-boilerplate](https://github.com/theblacksmith/yii-boilerplate) - Yii Framework Boilerplate
