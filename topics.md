@@ -381,7 +381,7 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [0xytoken/coingecko_pack](https://github.com/0xytoken/coingecko_pack) - My CoinGecko pack allows you to frictionlessly query CoinGecko for any crypto, to empower you to get the best insights and most custom possible
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
@@ -2079,6 +2079,8 @@
 
 ## others 
 
+- [peek-travel/n8n-nodes-peek-pro](https://github.com/peek-travel/n8n-nodes-peek-pro) - Community Node for Peek Pro N8N Connector App
+- [makuko/zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for zag
 - [TokenRollAI/acplugin](https://github.com/TokenRollAI/acplugin) - Convert Claude Code plugins to Codex, OpenCode, and Cursor formats
 - [jstxn/rein](https://github.com/jstxn/rein) - REIN is a lightweight and hands-off harness for stricter, more explicit agentic coding workflows. This is an evolution of https://github.com/jstxn/FEAR.md
 - [fcavalcantirj/amcp-protocol](https://github.com/fcavalcantirj/amcp-protocol) - 
@@ -3121,7 +3123,7 @@
 ## statistics 
 
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 
 ## storybook 
 
