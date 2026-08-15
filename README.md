@@ -272,6 +272,7 @@
 
 ## HTML 
 
+- [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [handprompted/handprompted-monorepo](https://github.com/handprompted/handprompted-monorepo) - 
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [juliankrispel/bishbosh](https://github.com/juliankrispel/bishbosh) - Proposal - BishBosh - A domain specific language for writing command line interfaces
@@ -318,6 +319,7 @@
 
 ## JavaScript 
 
+- [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [jstxn/rein](https://github.com/jstxn/rein) - REIN is a lightweight and hands-off harness for stricter, more explicit agentic coding workflows. This is an evolution of https://github.com/jstxn/FEAR.md
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
@@ -977,7 +979,7 @@
 - [MadAppGang/claude-code](https://github.com/MadAppGang/claude-code) - claude code plugins marketplace
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [ocavue/tsdocs](https://github.com/ocavue/tsdocs) - 
 - [jakub-hajduk/figwire](https://github.com/jakub-hajduk/figwire) - Bidirectional IPC communication between UI and core in Figma plugins. Lightweight and typed.
