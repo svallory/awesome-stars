@@ -398,7 +398,7 @@
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [NakedJSX/core](https://github.com/NakedJSX/core) - The NakedJSX development server and build tool.
 - [amekusa/karabinerge](https://github.com/amekusa/karabinerge) - Karabiner Elements complex modifications generator
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) - A highly-opinionated base for building shareable Svelte 3 components
 - [tokilabs/config](https://github.com/tokilabs/config) - A monorepo for config of tools used at @tokilabs
 - [tomquinonero/figma-plugin-template](https://github.com/tomquinonero/figma-plugin-template) - A Figma plugin template using svelte. SCSS and Typescript support
@@ -974,7 +974,7 @@
 - [edge-js/edge](https://github.com/edge-js/edge) - Node.js template engine with a breath of fresh air
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [bgub/ts-base](https://github.com/bgub/ts-base) - Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.
-- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A local Figma MCP server with full Figma REST API coverage
+- [planetabhi/figma-mcp-server](https://github.com/planetabhi/figma-mcp-server) - A local Figma MCP server with full Figma REST API coverage. Skill install: npx figma-agent
 - [HiDeoo/starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Starlight plugin to generate documentation from TypeScript using TypeDoc
 - [dsnchz/solid-flow](https://github.com/dsnchz/solid-flow) - SolidJS Port of React/Svelte Flow
 - [bgub/squirrelly](https://github.com/bgub/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
