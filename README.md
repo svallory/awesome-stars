@@ -340,7 +340,7 @@
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [svallory/moonrepo-template](https://github.com/svallory/moonrepo-template) - Monorepo template using moon, proto, node 20, Yarn 4, Packemon, ESLint, Jest, Prettier, TypeScript, Vite, Vitest, Astro.
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [fchollet/ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -683,6 +683,7 @@
 
 ## Python 
 
+- [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) - Dashboard for monitoring claude code sessions.
 - [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
