@@ -2101,6 +2101,7 @@
 
 ## others 
 
+- [companion-inc/feynman](https://github.com/companion-inc/feynman) - 
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [svallory/marko-ui](https://github.com/svallory/marko-ui) - shadcn for Marko — copy-paste UI components for Marko 6 powered by Zag.js state machines
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
