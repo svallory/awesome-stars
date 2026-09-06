@@ -632,7 +632,7 @@
 - [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [ysw/DbUp](https://github.com/ysw/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up 
 - [jdmiller82/-lessins-](https://github.com/jdmiller82/-lessins-) - A library of mixins for {less}
 - [artisonian/CoffeeScript.sugar](https://github.com/artisonian/CoffeeScript.sugar) - A port of CoffeeScript.tmbundle for Espresso
@@ -846,7 +846,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -954,6 +954,7 @@
 
 ## TypeScript 
 
+- [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
 - [peek-travel/n8n-nodes-peek-pro](https://github.com/peek-travel/n8n-nodes-peek-pro) - Community Node for Peek Pro N8N Connector App
 - [makuko/zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for zag
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
