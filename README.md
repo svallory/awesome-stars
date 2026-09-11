@@ -284,7 +284,6 @@
 - [SabrinaBarros/ditto-boilerplate](https://github.com/SabrinaBarros/ditto-boilerplate) - ⚙️ Simple and elegant Front-End boilerplate, developed with HTML and vanilla CSS ☂️
 - [Gogolian/babyagi-js-html](https://github.com/Gogolian/babyagi-js-html) - 
 - [rbuckton/grammarkdown](https://github.com/rbuckton/grammarkdown) - Markdown-like DSL for defining grammatical syntax for programming languages.
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [damianjankowski/KE-complex_modifications](https://github.com/damianjankowski/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -1336,6 +1335,7 @@
 - [thiagomajesk/code-flow](https://github.com/thiagomajesk/code-flow) - Visual Studio Code Extension For Productivity Junkies
 - [trickypr/station](https://github.com/trickypr/station) - One app to rule them all!
 - [TheFireBlast/irojs](https://github.com/TheFireBlast/irojs) - A grammar generator for syntax highlighters.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [microsoft/TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage) - TextMate grammar files for TypeScript for VS Code, Sublime Text, and Atom.
 - [aPinix/indent-jump-vscode](https://github.com/aPinix/indent-jump-vscode) - Move cursor and select contents between lines with the same indents.
 - [metaseed/metaGo](https://github.com/metaseed/metaGo) - MetaGo provides fast cursor movement/selection for keyboard focused users in vscode
