@@ -190,7 +190,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [lexical-lsp/lexical](https://github.com/lexical-lsp/lexical) - Lexical is a next-generation elixir language server
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [HashNuke/hound](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation
@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [0cv/herdr-mobile-relay](https://github.com/0cv/herdr-mobile-relay) - Approve and monitor Herdr agents remotely from your phone, a mobile web app for Android/iOS smartphones with push notifications, QR setup, and multi-computer relays.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
@@ -717,7 +718,7 @@
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker) - The day-to-day front-end to the IETF database for people who work on IETF standards.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+- [apple-aiml-research/ml-ane-transformers](https://github.com/apple-aiml-research/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [rizerphe/local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling) - A tool for generating function arguments and choosing what function to call with local LLMs
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
@@ -955,6 +956,7 @@
 
 ## TypeScript 
 
+- [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro) - Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
 - [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
 - [peek-travel/n8n-nodes-peek-pro](https://github.com/peek-travel/n8n-nodes-peek-pro) - Community Node for Peek Pro N8N Connector App
 - [makuko/zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for zag
@@ -1263,7 +1265,7 @@
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [JB1905/react-figma-ui](https://github.com/JB1905/react-figma-ui) - 🏗️ React implementation for figma-plugin-ds
 - [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [jake-figma/component-inspector](https://github.com/jake-figma/component-inspector) - A Figma plugin for inspecting Figma components
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -1379,7 +1381,7 @@
 - [acathur/cmd](https://github.com/acathur/cmd) - Commander.js (command-line interfaces) for Deno.
 - [siokas/denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy
 - [akunchen/deno-prompt](https://github.com/akunchen/deno-prompt) - 
-- [c4spar/cliffy](https://github.com/c4spar/cliffy) - A TypeScript-first, runtime-agnostic command-line toolkit for building complex   CLIs — featuring a command framework, argument parser, interactive prompts,   tables, ANSI utilities, and more.
+- [c4spar/cliffy](https://github.com/c4spar/cliffy) - A TypeScript-first, runtime-agnostic command-line toolkit for Deno, Node.js and Bun: featuring a command framework, argument parser, interactive prompts, tables, ANSI utilities, and more.
 - [denosaurs/denon](https://github.com/denosaurs/denon) - 👀 Monitor any changes in your Deno application and automatically restart.
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
