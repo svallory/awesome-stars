@@ -558,7 +558,6 @@
 
 ## Marko 
 
-- [svallory/marko-ui](https://github.com/svallory/marko-ui) - shadcn for Marko — copy-paste UI components for Marko 6 powered by Zag.js state machines
 - [RohanVashisht1234/flowbite-icons-marko](https://github.com/RohanVashisht1234/flowbite-icons-marko) - 
 - [marko-js/micro-frame](https://github.com/marko-js/micro-frame) - A Marko tag for building SSR friendly micro frontends.
 
@@ -690,7 +689,7 @@
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -958,6 +957,7 @@
 
 - [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro) - Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
 - [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
+- [svallory/marko-ui](https://github.com/svallory/marko-ui) - shadcn for Marko — copy-paste UI components for Marko 6 powered by Zag.js state machines
 - [peek-travel/n8n-nodes-peek-pro](https://github.com/peek-travel/n8n-nodes-peek-pro) - Community Node for Peek Pro N8N Connector App
 - [makuko/zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for zag
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -1109,7 +1109,7 @@
 - [spartan-ng/spartan](https://github.com/spartan-ng/spartan) - Cutting-edge tools powering Angular full-stack development.
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [gioragutt/nx-pwm](https://github.com/gioragutt/nx-pwm) - Plugin and CLI for managing nx workspaces of packages, inspired by the tooling in nrwl/nx
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [suryatmodulus/sveltosis](https://github.com/suryatmodulus/sveltosis) - A Svelte parser that compiles to Mitosis JSON, allowing you to write Svelte components once and compile to every framework.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
