@@ -367,6 +367,7 @@
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [salesforce/near-membrane](https://github.com/salesforce/near-membrane) - JavaScript Near Membrane Library that powers Lightning Locker Service
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [pfelipm/progressrings-coda-pack](https://github.com/pfelipm/progressrings-coda-pack) - A Coda Pack that generates customizable SVG progress rings.
 - [pfelipm/dnsquery-coda-pack](https://github.com/pfelipm/dnsquery-coda-pack) - A simple Coda Pack that fetches DNS records.
@@ -619,6 +620,7 @@
 - [mathiasbynens/custom.keylayout](https://github.com/mathiasbynens/custom.keylayout) - Custom QWERTY/AZERTY .keylayout files for use with Apple keyboards
 - [ContextMapper/context-mapper-examples](https://github.com/ContextMapper/context-mapper-examples) - ContextMapper DSL: Examples
 - [larsbaunwall/DomainLang](https://github.com/larsbaunwall/DomainLang) - A DSL for Domain-Driven Design
+- [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
 - [githubnext/githubnext](https://github.com/githubnext/githubnext) - A public point of contact for GitHub Next
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources.
 - [amilajack/awesome-node-cli-libraries](https://github.com/amilajack/awesome-node-cli-libraries) - A list of libraries and infrastructure for building CLI's with node
@@ -1058,6 +1060,7 @@
 - [marko-js/writable-dom](https://github.com/marko-js/writable-dom) - Utility to stream HTML content into a live document.
 - [albnunes/marko-run-adapter-figma](https://github.com/albnunes/marko-run-adapter-figma) - A Marko Run adapter for creating figma plugins
 - [moonrepo/examples](https://github.com/moonrepo/examples) - An example monorepo using moon and popular JS tooling.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ajafff/tsutils](https://github.com/ajafff/tsutils) - utility functions for working with typescript's AST
@@ -1134,7 +1137,6 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [miguelramos/vtx](https://github.com/miguelramos/vtx) - VTX, vite multi-apps, libs and packages.
-- [salesforce/near-membrane](https://github.com/salesforce/near-membrane) - JavaScript Near Membrane Library that powers Lightning Locker Service
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -1366,7 +1368,6 @@
 - [eclipse-glsp/glsp-examples](https://github.com/eclipse-glsp/glsp-examples) - Example diagram editors built with Eclipse GLSP
 - [eclipse-glsp/glsp-server-node](https://github.com/eclipse-glsp/glsp-server-node) - Node-based server framework of the graphical language server platform
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
-- [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
 - [SOM-Research/DescribeML](https://github.com/SOM-Research/DescribeML) - DescribeML is a Visual Studio Code language plug-in to describe machine-learning datasets in a structured format. Build better data describing the composition, provenance and social concerns of your d
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
