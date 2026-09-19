@@ -958,7 +958,7 @@
 ## TypeScript 
 
 - [sharpdeveye/maestro](https://github.com/sharpdeveye/maestro) - Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
-- [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
+- [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [svallory/marko-ui](https://github.com/svallory/marko-ui) - shadcn for Marko — copy-paste UI components for Marko 6 powered by Zag.js state machines
 - [peek-travel/n8n-nodes-peek-pro](https://github.com/peek-travel/n8n-nodes-peek-pro) - Community Node for Peek Pro N8N Connector App
 - [makuko/zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for zag
