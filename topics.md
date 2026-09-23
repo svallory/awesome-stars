@@ -2119,6 +2119,7 @@
 
 ## others 
 
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [mluogh/eastworld](https://github.com/mluogh/eastworld) - Framework for Generative Agents in Games
 - [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
@@ -2912,6 +2913,7 @@
 
 ## react 
 
+- [frappe/raven](https://github.com/frappe/raven) - Simple, open source team messaging platform
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [fcavalcantirj/agent-faces](https://github.com/fcavalcantirj/agent-faces) - Give your AI agent a talking, lip-syncing face — 12-emotion particle face, in-browser Whisper (WebGPU), bring-your-own-agent bridge. MIT.
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
