@@ -1083,7 +1083,7 @@
 - [marko-js/tags-api-preview](https://github.com/marko-js/tags-api-preview) - Preview the Marko 6 "Tags API" in Marko 5!
 - [seek-oss/skuba](https://github.com/seek-oss/skuba) - 🤿 SEEK development toolkit for backend applications and packages
 - [seek-oss/crackle](https://github.com/seek-oss/crackle) - 💥 A build tool for apps and packages, static and server-rendered sites
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [figma/code-snippet-editor-plugin](https://github.com/figma/code-snippet-editor-plugin) - Translate component variants, properties, and more into dynamic code snippets for your design system.
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [wmalarski/marko-supabase-todo-app](https://github.com/wmalarski/marko-supabase-todo-app) - Marko Supabase Todo App  is a non-trivial demo application built using Marko Run.
