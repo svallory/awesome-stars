@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
@@ -60,6 +61,10 @@
 - [XML](#xml)
 - [Xtend](#xtend)
 
+## ANTLR 
+
+- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
+
 ## Astro 
 
 - [themefisher/dockit-astro](https://github.com/themefisher/dockit-astro) - 🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design
@@ -96,7 +101,6 @@
 
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [c272/iro4cli](https://github.com/c272/iro4cli) - An open-source rewrite of Iro, a grammar generator, supporting automatic VSCode & Atom extension generation.
-- [kaby76/Trash](https://github.com/kaby76/Trash) - Toolkit for grammars
 - [kaby76/uni-vscode](https://github.com/kaby76/uni-vscode) - From an Antlr4 grammar to a VSCode extension in less than a minute.
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
