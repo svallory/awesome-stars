@@ -466,7 +466,6 @@
 - [keithamus/npm-scripts-example](https://github.com/keithamus/npm-scripts-example) - An example of how to use NPM scripts over Grunt/Gulp & Friends. http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool
 - [c-vetter/gulp-file-structure](https://github.com/c-vetter/gulp-file-structure) - My take on proper gulp file organization
 - [sideshowcoder/ddd-js-sample-code](https://github.com/sideshowcoder/ddd-js-sample-code) - Sample code for the Domain-driven design in JavaScript book
-- [hlibco/alexa-bootstrap](https://github.com/hlibco/alexa-bootstrap) - Alexa Skills Bootstrap Framework
 - [cayasso/event-store-entity](https://github.com/cayasso/event-store-entity) - Entity abstract class for creating event-store entities.
 - [kwhitley/treeize](https://github.com/kwhitley/treeize) - Converts row data (in JSON/associative array format) to tree structure based on column naming conventions.
 - [alfateam/orange-orm](https://github.com/alfateam/orange-orm) - The ultimate ORM for Node and Typescript
@@ -1426,7 +1425,6 @@
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
-- [hlibco/envstore](https://github.com/hlibco/envstore) - Load casted environment variables or throw if they don't exist
 - [domagojk/beenion](https://github.com/domagojk/beenion) - Example project using Event Sorucing and CQRS patterns
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
