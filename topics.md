@@ -2619,7 +2619,6 @@
 - [unlight/node-package-starter](https://github.com/unlight/node-package-starter) - Node package starter
 - [marcelobern/Google-Admin-SDK-Domain](https://github.com/marcelobern/Google-Admin-SDK-Domain) - Change the primary domain of your Google for Work (Google Apps) account using the Google Admin SDK.
 - [blindpet/MediaServerInstaller](https://github.com/blindpet/MediaServerInstaller) - Automated Home Media Server Installer
-- [hlibco/envstore](https://github.com/hlibco/envstore) - Load casted environment variables or throw if they don't exist
 - [domagojk/beenion](https://github.com/domagojk/beenion) - Example project using Event Sorucing and CQRS patterns
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [dolphyn/dolphyn](https://github.com/dolphyn/dolphyn) - Beatiful and easy to use webmail
@@ -2635,7 +2634,6 @@
 - [c-vetter/gulp-file-structure](https://github.com/c-vetter/gulp-file-structure) - My take on proper gulp file organization
 - [efacilitation/eventric](https://github.com/efacilitation/eventric) - Minimalist JavaScript framework to build applications based on DDD, CQRS and Event Sourcing.
 - [sideshowcoder/ddd-js-sample-code](https://github.com/sideshowcoder/ddd-js-sample-code) - Sample code for the Domain-driven design in JavaScript book
-- [hlibco/alexa-bootstrap](https://github.com/hlibco/alexa-bootstrap) - Alexa Skills Bootstrap Framework
 - [cayasso/event-store-entity](https://github.com/cayasso/event-store-entity) - Entity abstract class for creating event-store entities.
 - [praeclarum/Netjs](https://github.com/praeclarum/Netjs) - Compile .NET assemblies to TypeScript and JavaScript
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
