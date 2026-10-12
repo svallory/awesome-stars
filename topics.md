@@ -2139,6 +2139,7 @@
 
 ## others 
 
+- [crcn/causal-rs](https://github.com/crcn/causal-rs) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
