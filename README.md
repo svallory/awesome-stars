@@ -835,6 +835,7 @@
 
 ## Rust 
 
+- [crcn/causal-rs](https://github.com/crcn/causal-rs) - 
 - [vectorize-io/pg0](https://github.com/vectorize-io/pg0) - pg0 - Zero-config PostgreSQL with pgvector
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
